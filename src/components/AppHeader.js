@@ -6,7 +6,7 @@ export default class AppHeader extends Component {
         return (
             <div>
                 <Navbar bg="light" variant="light">
-                    <Navbar.Brand href="/">MX-COVID19</Navbar.Brand>
+                    <Navbar.Brand href="/">MX COVID-19</Navbar.Brand>
                     <Navbar.Collapse>
                         <Nav className="justify-content-end" style={{ width: "100%" }}>
                             <Nav.Link href="/prevencion">Prevención</Nav.Link>

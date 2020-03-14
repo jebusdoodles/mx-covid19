@@ -2,7 +2,7 @@ import React from 'react';
 //react router
 import { BrowserRouter as Router, Route } from 'react-router-dom'; 
 import HomeContainer from './containers/HomeContainer'; 
-import './App.css';
+import './App.sass';
 
 function App() {
   return (

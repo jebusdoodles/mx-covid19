@@ -1,11 +1,21 @@
-import React, { Component } from 'react'
+import React from 'react';
+import PropTypes from 'prop-types';
+import MapSelector from './MapSelector';
 
-export default class StateMapContainer extends Component {
-    render() {
-        return (
-            <div>
-                
+const StateMapContainer = ({ mapa, titulo }) => {
+    return (
+        <div>
+            <div className='title-map-state'>{titulo}</div>
+            <div className='svg-map-state'>
+                <MapSelector mapa={mapa} />
             </div>
-        )
-    }
+        </div>
+    );
 }
+
+StateMapContainer.propTypes = {
+    titulo: PropTypes.string.isRequired,
+    mapa: PropTypes.string.isRequired,
+};
+
+export default StateMapContainer;
