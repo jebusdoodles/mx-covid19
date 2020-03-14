@@ -1,7 +1,7 @@
 [
     {
         "fecha": "1584122400",
-        "nom": "MEX",
+        "iso": "MEX",
         "nombre": "México",
         "confirmados": 26,
         "sospechosos": 105,

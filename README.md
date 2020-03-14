@@ -1,3 +1,34 @@
+*Este proyecto es Open Source, Libre y mantenido por la comunidad y carece de caracter oficial, por lo que se recomienda siempre citar a las fuentes oficiales*
+
+## Formato de datos
+La base de datos se encuentra en src > database en dos archivos json uno con el estado nacional y otro con la información por estados.
+
+Nacional (db-nacional.json): 
+
+| Nombre      | Descripción       | Description          | Formato     | Ejemplo    |
+|-------------|-------------------|----------------------|-------------|------------|
+| fecha       | Fecha de corte    | Date                 | unix format | 1584122400 |
+| iso         | Abreviatura       | Country abbreviation | iso 3166-2  | MEX        |
+| nombre      | Nombre            | Name                 | texto       | México     |
+| confirmados | Casos confirmados | Confirm              | numerico    | 0          |
+| sospechosos | Casos sospechosos | Suspect              | numerico    | 0          |
+| decesos     | Muertes           | Death                | numerico    | 0          |
+
+Estados (db-estados.json): 
+
+| Nombre      | Descripción       | Description          | Formato     | Ejemplo        |
+|-------------|-------------------|----------------------|-------------|----------------|
+| fecha       | Fecha de corte    | Date                 | unix format | 1584122400     |
+| iso         | Abreviatura       | Country abbreviation | iso 3166-2  | AGU            |
+| nombre      | Nombre            | Name                 | texto       | Aguascalientes |
+| lat         | latitud           | Latitude             | decimal     | 21.8823395     |
+| long        | longitud          | Longitude            | decimal     | -102.2825928   |
+| confirmados | Casos confirmados | Confirm              | numerico    | 0              |
+| sospechosos | Casos sospechosos | Suspect              | numerico    | 0              |
+| decesos     | Muertes           | Death                | numerico    | 0              |
+
+## Aditional information
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
