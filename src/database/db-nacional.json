@@ -6,5 +6,13 @@
         "confirmados": 26,
         "sospechosos": 105,
         "decesos": 0
+    },
+    {
+        "fecha": "1584212400",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 41,
+        "sospechosos": 155,
+        "decesos": 0
     }
 ]
