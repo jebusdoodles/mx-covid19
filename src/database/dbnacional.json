@@ -1,0 +1,47 @@
+[
+    {
+        "fecha": "1584039600",
+        "fecha-format": "12-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 15,
+        "sospechosos": 82,
+        "decesos": 0
+    },
+    {
+        "fecha": "1584122400",
+        "fecha-format": "13-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 26,
+        "sospechosos": 105,
+        "decesos": 0
+    },
+    {
+        "fecha": "1584212400",
+        "fecha-format": "14-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 41,
+        "sospechosos": 155,
+        "decesos": 0
+    },
+    {
+        "fecha": "1584298800",
+        "fecha-format": "15-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 53,
+        "sospechosos": 176,
+        "decesos": 0
+    },
+    {
+        "fecha": "1584385200",
+        "fecha-format": "16-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 82,
+        "sospechosos": 171,
+        "decesos": 0
+    }
+]

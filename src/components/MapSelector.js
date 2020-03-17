@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 import { Image } from 'react-bootstrap'; 
 
 
@@ -14,9 +13,5 @@ class MapSelector extends Component {
         );
     }
 }
-
-MapSelector.propTypes = {
-
-};
 
 export default MapSelector;
