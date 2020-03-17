@@ -1,5 +1,5 @@
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "AGU",
     "nombre": "Aguascalientes",
     "lat": 21.8823395,
@@ -9,7 +9,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "BCN",
     "nombre": "Baja California Norte",
     "lat": 31.8714905,
@@ -19,7 +19,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "BCS",
     "nombre": "Baja California Sur",
     "lat": 24.1443691,
@@ -29,7 +29,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "CAM",
     "nombre": "Campeche",
     "lat": 19.8454,
@@ -39,7 +39,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "CHP",
     "nombre": "Chiapas",
     "lat": 16.7597294,
@@ -49,7 +49,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "CHH",
     "nombre": "Chihuahua",
     "lat": 28.6352806,
@@ -59,7 +59,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "CMX",
     "nombre": "Ciudad de México",
     "lat": 23.6345005,
@@ -69,7 +69,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "COA",
     "nombre": "Coahuila",
     "lat": 26.9068699,
@@ -79,7 +79,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "COL",
     "nombre": "Colima",
     "lat": 19.2433,
@@ -89,7 +89,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "DUR",
     "nombre": "Durango",
     "lat": 24.0203209,
@@ -99,7 +99,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "GUA",
     "nombre": "Guanajuato",
     "lat": 21.1290798,
@@ -109,7 +109,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "GRO",
     "nombre": "Guerrero",
     "lat": 17.5506001,
@@ -119,7 +119,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "HID",
     "nombre": "Hidalgo",
     "lat": 20.1169701,
@@ -129,7 +129,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "JAL",
     "nombre": "Jalisco",
     "lat": 20.6668205,
@@ -139,7 +139,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "MEX",
     "nombre": "Estado de México",
     "lat": 19.354167,
@@ -149,7 +149,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "MIC",
     "nombre": "Michoacán",
     "lat": 19.168611,
@@ -159,7 +159,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "MOR",
     "nombre": "Morelos",
     "lat": 18.7475,
@@ -169,7 +169,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "NAY",
     "nombre": "Nayarit",
     "lat": 21.743889,
@@ -179,7 +179,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "NLE",
     "nombre": "Nuevo Leon",
     "lat": 25.566667,
@@ -189,7 +189,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "OAX",
     "nombre": "Oaxaca",
     "lat": 16.898056,
@@ -199,7 +199,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "PUE",
     "nombre": "Puebla",
     "lat": 19.003611,
@@ -209,7 +209,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "QUE",
     "nombre": "Queretaro",
     "lat": 20.591,
@@ -219,7 +219,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "ROO",
     "nombre": "Quintana Roo",
     "lat": 21.1742897,
@@ -229,7 +229,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "SLP",
     "nombre": "San Luis Potosí",
     "lat": 22.1498203,
@@ -239,7 +239,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "SIN",
     "nombre": "Sinaloa",
     "lat": 24.7903194,
@@ -249,7 +249,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "SON",
     "nombre": "Sonora",
     "lat": 29.1026001,
@@ -259,7 +259,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "TAB",
     "nombre": "Tabasco",
     "lat": 17.9868908,
@@ -269,7 +269,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "TAM",
     "nombre": "Tampico",
     "lat": 22.2448406,
@@ -279,7 +279,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "TLA",
     "nombre": "Tlaxcala",
     "lat": 19.428889,
@@ -289,7 +289,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "VER",
     "nombre": "Veracruz",
     "lat": 19.190278,
@@ -299,7 +299,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "YUC",
     "nombre": "Yucatan",
     "lat": 20.833333,
@@ -309,7 +309,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584039600",
+    "fecha": "1584385200",
     "iso": "ZAC",
     "nombre": "Zacatecas",
     "lat": 23.292778,
