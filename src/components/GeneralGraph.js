@@ -10,7 +10,7 @@ const GeneralGraph = () =>{
                 height={300}
                 data={dbnacional}
             >
-                <CartesianGrid strokeDasharray="3 3" />
+                <CartesianGrid strokeDasharray="5 5" />
                 <XAxis dataKey="fecha-format" />
                 <YAxis />
                 <Tooltip />

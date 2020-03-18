@@ -4,7 +4,7 @@
     "nombre": "Aguascalientes",
     "lat": 21.8823395,
     "long": -102.2825928,
-    "confirmados": 0,
+    "confirmados": 1,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -54,7 +54,7 @@
     "nombre": "Chihuahua",
     "lat": 28.6352806,
     "long": -106.0888901,
-    "confirmados": 0,
+    "confirmados": 1,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -64,7 +64,7 @@
     "nombre": "Ciudad de México",
     "lat": 23.6345005,
     "long": -102.5527878,
-    "confirmados": 5,
+    "confirmados": 21,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -94,7 +94,7 @@
     "nombre": "Durango",
     "lat": 24.0203209,
     "long": -104.6575623,
-    "confirmados": 1,
+    "confirmados": 3,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -104,7 +104,7 @@
     "nombre": "Guanajuato",
     "lat": 21.1290798,
     "long": -101.6737366,
-    "confirmados": 0,
+    "confirmados": 1,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -114,7 +114,7 @@
     "nombre": "Guerrero",
     "lat": 17.5506001,
     "long": -99.5057831,
-    "confirmados": 0,
+    "confirmados": 2,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -134,7 +134,7 @@
     "nombre": "Jalisco",
     "lat": 20.6668205,
     "long": -103.3918228,
-    "confirmados": 0,
+    "confirmados": 2,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -144,7 +144,7 @@
     "nombre": "Estado de México",
     "lat": 19.354167,
     "long": -99.630833,
-    "confirmados": 3,
+    "confirmados": 9,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -184,7 +184,7 @@
     "nombre": "Nuevo Leon",
     "lat": 25.566667,
     "long": -99.970556,
-    "confirmados": 1,
+    "confirmados": 13,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -194,7 +194,7 @@
     "nombre": "Oaxaca",
     "lat": 16.898056,
     "long": -96.414167,
-    "confirmados": 0,
+    "confirmados": 2,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -204,7 +204,7 @@
     "nombre": "Puebla",
     "lat": 19.003611,
     "long": -97.888333,
-    "confirmados": 2,
+    "confirmados": 8,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -214,7 +214,7 @@
     "nombre": "Queretaro",
     "lat": 20.591,
     "long": -100.391,
-    "confirmados": 1,
+    "confirmados": 7,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -224,7 +224,7 @@
     "nombre": "Quintana Roo",
     "lat": 21.1742897,
     "long": -86.8465576,
-    "confirmados": 1,
+    "confirmados": 4,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -234,7 +234,7 @@
     "nombre": "San Luis Potosí",
     "lat": 22.1498203,
     "long": -100.9791565,
-    "confirmados": 0,
+    "confirmados": 2,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -244,7 +244,7 @@
     "nombre": "Sinaloa",
     "lat": 24.7903194,
     "long": -107.3878174,
-    "confirmados": 0,
+    "confirmados": 2,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -304,7 +304,7 @@
     "nombre": "Yucatan",
     "lat": 20.833333,
     "long": -89,
-    "confirmados": 1,
+    "confirmados": 4,
     "sospechosos": 0,
     "decesos": 0
 },

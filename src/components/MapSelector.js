@@ -1,17 +1,21 @@
-import React, { Component } from 'react';
-import { Image } from 'react-bootstrap'; 
-
-
+import React from 'react';
+import { Figure } from 'react-bootstrap';
 const mx_svg = require('./../assets/maps/mx-map.svg');
 
-class MapSelector extends Component {
-    render() {
-        return (
-            <div>
-                <Image src={mx_svg} className='style_mapsvg'></Image>
-            </div>
-        );
-    }
+const MapSelector = () =>{
+    return (
+        <div>
+            <Figure>
+                <Figure.Image
+                    src={mx_svg}
+                    className='style_mapsvg'
+                />
+                <Figure.Caption class='style_mapsvg_caption'>
+                    Mapa Casos Confimados México.
+                </Figure.Caption>
+            </Figure>
+        </div>
+    );
 }
 
 export default MapSelector;
