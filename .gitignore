@@ -11,6 +11,9 @@
 # production
 /build
 
+#documentación oficial
+/estractinfo/confirmados.pdf
+
 # misc
 .DS_Store
 .env.local
