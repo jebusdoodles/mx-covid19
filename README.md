@@ -1,9 +1,10 @@
-*Este proyecto es Open Source, Libre y mantenido por la comunidad y carece de caracter oficial, por lo que se recomienda siempre citar a las fuentes oficiales*
+*Este proyecto es de desarrollo comunitario y carece de caracter oficial, por lo que se recomienda que sea usado unicamente a modo de consulta y acudir a fuentes oficiales*
 
 ## Formato de datos
 La base de datos se encuentra en src > database en dos archivos json uno con el estado nacional y otro con la información por estados.
 
 Nacional (db-nacional.json): 
+------
 
 | Nombre      | Descripción       | Description          | Formato     | Ejemplo    |
 |-------------|-------------------|----------------------|-------------|------------|
@@ -14,7 +15,8 @@ Nacional (db-nacional.json):
 | sospechosos | Casos sospechosos | Suspect              | numerico    | 0          |
 | decesos     | Muertes           | Death                | numerico    | 0          |
 
-Estados (db-estados.json): 
+Estados (db-estados.json):
+------ 
 
 | Nombre      | Descripción       | Description          | Formato     | Ejemplo        |
 |-------------|-------------------|----------------------|-------------|----------------|
@@ -26,6 +28,44 @@ Estados (db-estados.json):
 | confirmados | Casos confirmados | Confirm              | numerico    | 0              |
 | sospechosos | Casos sospechosos | Suspect              | numerico    | 0              |
 | decesos     | Muertes           | Death                | numerico    | 0              |
+
+# Fuente de información y extracción
+La información es extraida de [Secretaría de salud](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario) y transcrita a las bibliotecas json como se ha referido antes.
+
+## Forma de extracción
+En la carpeta /extractinfo esta almacenado el script en python 3 que usa la biblioteca [tabula](https://github.com/chezou/tabula-py) y convertida a csv. Despues el archivo es depurado y ordenado para llenar manualmente los archivos json, que se encuentran en la carpeta /database.
+
+# Todo List (Cosas por hacer)
+(19 / Marzo / 2020)
+- [ ] Actualizar mapa svg con estados confirmados
+- [ ] Ordenar lista de estados por numero de casos confirmados
+- [ ] Responsive Móvil
+- [ ] Habilitar páginas con información de prevención y de fuentes oficiales
+- [ ] Habilitar controles historiograficos 
+
+# Preguntas frecuentes
+-¿Es información de una fuente oficial?
+Sí, estoy usando la información compartida desde [Secretaría de salud](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario), que suben a diario después de la conferencia oficial.
+
+-¿Por qué tardas en subir casos confirmados/sospechosos/decesos?
+La información es ratificada con la fuente oficial antes mencionada, aunque medio y hasta oficialmente se halla confirmado nuevos numeros, actualizare tan pronto esten los nuevos datos desde la Secretaria de Salud.
+
+-¿Por qué no muestras más datos y graficas?
+Maténlo simple, no descarto en los proximos dias agregar más información pero el espiritú de esta pagina sera mantener la información tan legible y sencillo como sea posible. 
+
+-¿Cuenta con API/REST?
+No, la información es almacenada de forma local en archivos json. 
+
+-¿En que esta desarrollado?
+La página esta desarrollada en [React](https://es.reactjs.org/) para el consumo de datos y la visualización empaquetada con Create React App y publicada en github pages. La información es extraida de pdf usando un script simple en Python 3.
+
+# Información de contacto 
+
+Pueden contactarse conmigo para información adicional, sugerencias o comentarios a mi correo personal jesus.cortes.code@gmail.com o en mi cuenta de [twitter](https://twitter.com/JebusDoodles)
+
+# Licencia
+
+"Este proyecto cuenta con licencia conforme a los términos de la licencia [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
 
 ## Aditional information
 

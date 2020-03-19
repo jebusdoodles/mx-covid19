@@ -10,7 +10,7 @@ function App() {
     <Router>
     <SEO />
       <div>
-        <Route exact path="/" component={HomeContainer}></Route>
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={HomeContainer}></Route>
       </div>
     </Router>
   );
