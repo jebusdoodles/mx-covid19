@@ -4,12 +4,15 @@ import dataset from '../database/dbestados';
 
 const StateListContainer = () =>{
     const handleList = () =>{
-        const datosDiarios = dataset.slice(dataset.length - 32, dataset.length);
+        let datosDiarios = dataset.slice(dataset.length - 32, dataset.length);
+        //Ordenar lista de mayor a menor
+        datosDiarios = datosDiarios.sort(({confirmados:a}, {confirmados:b}) => b-a);
+        // Imprimir los datos de una tabla
         return(
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
                 <tr>
                     <td>{c.nombre}</td>
-                    <td>{c.confirmados}</td>
+                    <td className='tabla-conf'>{c.confirmados}</td>
                 </tr>             
             )
         )
@@ -19,8 +22,8 @@ const StateListContainer = () =>{
             <Table striped>
                 <thead>
                     <tr>
-                        <th>Sitio</th>
-                        <th># Confirmados</th>
+                        <th className='tabla-header'>Estado</th>
+                        <th className='tabla-header'>Confirmados</th>
                     </tr>
                 </thead>
                 <tbody>

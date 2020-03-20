@@ -10,7 +10,7 @@ const MapSelector = () =>{
                     src={mx_svg}
                     className='style_mapsvg'
                 />
-                <Figure.Caption class='style_mapsvg_caption'>
+                <Figure.Caption className='style_mapsvg_caption'>
                     Mapa Casos Confimados México.
                 </Figure.Caption>
             </Figure>
