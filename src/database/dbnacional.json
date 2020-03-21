@@ -1,7 +1,7 @@
 [
     {
         "fecha": "1584039600",
-        "fecha-format": "12-Marzo",
+        "fechaformat": "12-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 15,
@@ -10,7 +10,7 @@
     },
     {
         "fecha": "1584122400",
-        "fecha-format": "13-Marzo",
+        "fechaformat": "13-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 26,
@@ -19,7 +19,7 @@
     },
     {
         "fecha": "1584212400",
-        "fecha-format": "14-Marzo",
+        "fechaformat": "14-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 41,
@@ -28,7 +28,7 @@
     },
     {
         "fecha": "1584298800",
-        "fecha-format": "15-Marzo",
+        "fechaformat": "15-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 53,
@@ -37,7 +37,7 @@
     },
     {
         "fecha": "1584385200",
-        "fecha-format": "16-Marzo",
+        "fechaformat": "16-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 82,
@@ -46,7 +46,7 @@
     },
     {
         "fecha": "1584471600",
-        "fecha-format": "17-Marzo",
+        "fechaformat": "17-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 93,
@@ -55,11 +55,29 @@
     },
     {
         "fecha": "1583953200",
-        "fecha-format": "18-Marzo",
+        "fechaformat": "18-Marzo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 118,
         "sospechosos": 314,
         "decesos": 0
+    },
+    {
+        "fecha": "1584644400",
+        "fechaformat": "19-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 164,
+        "sospechosos": 448,
+        "decesos": 1 
+    },
+    {
+        "fecha": "1584730800",
+        "fechaformat": "20-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 203,
+        "sospechosos": 606,
+        "decesos": 2 
     }
 ]

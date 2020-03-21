@@ -33,31 +33,36 @@ Estados (db-estados.json):
 La información es extraida de [Secretaría de salud](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario) y transcrita a las bibliotecas json como se ha referido antes.
 
 ## Forma de extracción
-En la carpeta /extractinfo esta almacenado el script en python 3 que usa la biblioteca [tabula](https://github.com/chezou/tabula-py) y convertida a csv. Despues el archivo es depurado y ordenado para llenar manualmente los archivos json, que se encuentran en la carpeta /database.
+En la carpeta /extractinfo esta almacenado el script de python 3 que usa la biblioteca [tabula](https://github.com/chezou/tabula-py) para extraer la información del pdf a csv. Después el archivo es depurado para llenar manualmente los archivos json, que se encuentran en la carpeta /database.
 
 # Todo List (Cosas por hacer)
 (19 / Marzo / 2020)
 - [ ] Actualizar mapa svg con estados confirmados
-- [ ] Ordenar lista de estados por numero de casos confirmados
+- [x] Ordenar lista de estados por numero de casos confirmados (19 / Marzo / 2020)
 - [ ] Responsive Móvil
 - [ ] Habilitar páginas con información de prevención y de fuentes oficiales
 - [ ] Habilitar controles historiograficos 
 
 # Preguntas frecuentes
 -¿Es información de una fuente oficial?
+
 Sí, estoy usando la información compartida desde [Secretaría de salud](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario), que suben a diario después de la conferencia oficial.
 
 -¿Por qué tardas en subir casos confirmados/sospechosos/decesos?
+
 La información es ratificada con la fuente oficial antes mencionada, aunque medio y hasta oficialmente se halla confirmado nuevos numeros, actualizare tan pronto esten los nuevos datos desde la Secretaria de Salud.
 
 -¿Por qué no muestras más datos y graficas?
-Maténlo simple, no descarto en los proximos dias agregar más información pero el espiritú de esta pagina sera mantener la información tan legible y sencillo como sea posible. 
+
+Maténlo simple, no descarto que en los proximos dias agregue más información pero el espiritu de esta página sera mantener la información sancilla y legible para la mayoria de usuarios. 
 
 -¿Cuenta con API/REST?
+
 No, la información es almacenada de forma local en archivos json. 
 
 -¿En que esta desarrollado?
-La página esta desarrollada en [React](https://es.reactjs.org/) para el consumo de datos y la visualización empaquetada con Create React App y publicada en github pages. La información es extraida de pdf usando un script simple en Python 3.
+
+La página esta desarrollada en [React](https://es.reactjs.org/) para el consumo de datos y la visualización empaquetada con Create React App y publicada en github pages. La información es extraida de pdf usando un script en Python 3.
 
 # Información de contacto 
 

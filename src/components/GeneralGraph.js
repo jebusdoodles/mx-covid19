@@ -12,7 +12,7 @@ const GeneralGraph = () =>{
                 data={dbnacional}
             >
                 <CartesianGrid strokeDasharray="5 5" />
-                <XAxis dataKey="fecha-format" />
+                <XAxis dataKey="fechaformat" />
                 <YAxis />
                 <Tooltip />
                 <Legend />
