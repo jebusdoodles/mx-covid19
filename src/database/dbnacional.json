@@ -79,5 +79,14 @@
         "confirmados": 203,
         "sospechosos": 606,
         "decesos": 2 
+    },
+    {
+        "fecha": "1584817200",
+        "fechaformat": "21-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 251,
+        "sospechosos": 697,
+        "decesos": 2 
     }
 ]
