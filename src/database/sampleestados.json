@@ -1,5 +1,5 @@
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "AGU",
     "nombre": "Aguascalientes",
     "lat": 21.8823395,
@@ -9,7 +9,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "BCN",
     "nombre": "Baja California Norte",
     "lat": 31.8714905,
@@ -19,7 +19,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "BCS",
     "nombre": "Baja California Sur",
     "lat": 24.1443691,
@@ -29,7 +29,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "CAM",
     "nombre": "Campeche",
     "lat": 19.8454,
@@ -39,7 +39,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "CHP",
     "nombre": "Chiapas",
     "lat": 16.7597294,
@@ -49,27 +49,27 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "CHH",
     "nombre": "Chihuahua",
     "lat": 28.6352806,
     "long": -106.0888901,
-    "confirmados": 5,
+    "confirmados": 6,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "CMX",
     "nombre": "Ciudad de México",
     "lat": 23.6345005,
     "long": -102.5527878,
-    "confirmados": 60,
+    "confirmados": 66,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "COA",
     "nombre": "Coahuila",
     "lat": 26.9068699,
@@ -79,7 +79,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "COL",
     "nombre": "Colima",
     "lat": 19.2433,
@@ -89,7 +89,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "DUR",
     "nombre": "Durango",
     "lat": 24.0203209,
@@ -99,27 +99,27 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "GUA",
     "nombre": "Guanajuato",
     "lat": 21.1290798,
     "long": -101.6737366,
-    "confirmados": 7,
+    "confirmados": 12,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "GRO",
     "nombre": "Guerrero",
     "lat": 17.5506001,
     "long": -99.5057831,
-    "confirmados": 5,
+    "confirmados": 6,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "HID",
     "nombre": "Hidalgo",
     "lat": 20.1169701,
@@ -129,7 +129,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "JAL",
     "nombre": "Jalisco",
     "lat": 20.6668205,
@@ -139,7 +139,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "MEX",
     "nombre": "Estado de México",
     "lat": 19.354167,
@@ -149,17 +149,17 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "MIC",
     "nombre": "Michoacán",
     "lat": 19.168611,
     "long": -101.899722,
-    "confirmados": 7,
+    "confirmados": 8,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "MOR",
     "nombre": "Morelos",
     "lat": 18.7475,
@@ -169,7 +169,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "NAY",
     "nombre": "Nayarit",
     "lat": 21.743889,
@@ -179,17 +179,17 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "NLE",
     "nombre": "Nuevo Leon",
     "lat": 25.566667,
     "long": -99.970556,
-    "confirmados": 40,
+    "confirmados": 52,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "OAX",
     "nombre": "Oaxaca",
     "lat": 16.898056,
@@ -199,17 +199,17 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "PUE",
     "nombre": "Puebla",
     "lat": 19.003611,
     "long": -97.888333,
-    "confirmados": 16,
+    "confirmados": 22,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "QUE",
     "nombre": "Queretaro",
     "lat": 20.591,
@@ -219,17 +219,17 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "ROO",
     "nombre": "Quintana Roo",
     "lat": 21.1742897,
     "long": -86.8465576,
-    "confirmados": 21,
+    "confirmados": 22,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "SLP",
     "nombre": "San Luis Potosí",
     "lat": 22.1498203,
@@ -239,7 +239,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "SIN",
     "nombre": "Sinaloa",
     "lat": 24.7903194,
@@ -249,7 +249,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "SON",
     "nombre": "Sonora",
     "lat": 29.1026001,
@@ -259,7 +259,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "TAB",
     "nombre": "Tabasco",
     "lat": 17.9868908,
@@ -269,7 +269,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "TAM",
     "nombre": "Tamaulipas",
     "lat": 22.2448406,
@@ -279,7 +279,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "TLA",
     "nombre": "Tlaxcala",
     "lat": 19.428889,
@@ -289,7 +289,7 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "VER",
     "nombre": "Veracruz",
     "lat": 19.190278,
@@ -299,17 +299,17 @@
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "YUC",
     "nombre": "Yucatan",
     "lat": 20.833333,
     "long": -89,
-    "confirmados": 19,
+    "confirmados": 24,
     "sospechosos": 0,
     "decesos": 0
 },
 {
-    "fecha": "1584990000",
+    "fecha": "1585076400",
     "iso": "ZAC",
     "nombre": "Zacatecas",
     "lat": 23.292778,
