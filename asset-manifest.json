@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/mx-covid19/static/css/main.0a6ea283.chunk.css",
-    "main.js": "/mx-covid19/static/js/main.df57c09a.chunk.js",
-    "main.js.map": "/mx-covid19/static/js/main.df57c09a.chunk.js.map",
+    "main.css": "/mx-covid19/static/css/main.11305d47.chunk.css",
+    "main.js": "/mx-covid19/static/js/main.6ab8ba36.chunk.js",
+    "main.js.map": "/mx-covid19/static/js/main.6ab8ba36.chunk.js.map",
     "runtime-main.js": "/mx-covid19/static/js/runtime-main.426aba3c.js",
     "runtime-main.js.map": "/mx-covid19/static/js/runtime-main.426aba3c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/mx-covid19/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f5494d47.chunk.js": "/mx-covid19/static/js/2.f5494d47.chunk.js",
-    "static/js/2.f5494d47.chunk.js.map": "/mx-covid19/static/js/2.f5494d47.chunk.js.map",
+    "static/js/2.505c5599.chunk.js": "/mx-covid19/static/js/2.505c5599.chunk.js",
+    "static/js/2.505c5599.chunk.js.map": "/mx-covid19/static/js/2.505c5599.chunk.js.map",
     "index.html": "/mx-covid19/index.html",
-    "precache-manifest.3b33042dbe4d8388826294dfa8b15302.js": "/mx-covid19/precache-manifest.3b33042dbe4d8388826294dfa8b15302.js",
+    "precache-manifest.6a20037f63e8e41ed9165bc5c7bae236.js": "/mx-covid19/precache-manifest.6a20037f63e8e41ed9165bc5c7bae236.js",
     "service-worker.js": "/mx-covid19/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/mx-covid19/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.0a6ea283.chunk.css.map": "/mx-covid19/static/css/main.0a6ea283.chunk.css.map",
-    "static/js/2.f5494d47.chunk.js.LICENSE.txt": "/mx-covid19/static/js/2.f5494d47.chunk.js.LICENSE.txt",
+    "static/css/main.11305d47.chunk.css.map": "/mx-covid19/static/css/main.11305d47.chunk.css.map",
+    "static/js/2.505c5599.chunk.js.LICENSE.txt": "/mx-covid19/static/js/2.505c5599.chunk.js.LICENSE.txt",
     "static/media/image.png": "/mx-covid19/static/media/image.ee9432ce.png",
-    "static/media/mx-map.svg": "/mx-covid19/static/media/mx-map.62e81a81.svg"
+    "static/media/mexican.topojson": "/mx-covid19/static/media/mexican.e5173ac9.topojson"
   },
   "entrypoints": [
     "static/js/runtime-main.426aba3c.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f5494d47.chunk.js",
-    "static/css/main.0a6ea283.chunk.css",
-    "static/js/main.df57c09a.chunk.js"
+    "static/js/2.505c5599.chunk.js",
+    "static/css/main.11305d47.chunk.css",
+    "static/js/main.6ab8ba36.chunk.js"
   ]
 }
