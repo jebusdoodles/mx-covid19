@@ -10,7 +10,7 @@ const StateListContainer = () =>{
         // Imprimir los datos de una tabla
         return(
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
-                <tr>
+                <tr key={c.iso}>
                     <td>{c.nombre}</td>
                     <td className='tabla-conf'>{c.confirmados}</td>
                 </tr>             
