@@ -37,9 +37,9 @@ En la carpeta /extractinfo esta almacenado el script de python 3 que usa la bibl
 
 # Todo List (Cosas por hacer)
 (19 / Marzo / 2020)
-- [ ] Actualizar mapa svg con estados confirmados
+- [x] Actualizar mapa svg con estados confirmados (25 / Marzo / 2020)
 - [x] Ordenar lista de estados por numero de casos confirmados (19 / Marzo / 2020)
-- [ ] Responsive Móvil
+- [x] Responsive Móvil
 - [ ] Habilitar páginas con información de prevención y de fuentes oficiales
 - [ ] Habilitar controles historiograficos 
 

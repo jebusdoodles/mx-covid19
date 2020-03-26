@@ -38,8 +38,7 @@ class MapSelector extends Component {
                     <Geographies geography={mapData}>
                         {({geographies}) => 
                             geographies.map(geo => {
-                                const cur = datosDiarios.find(s => s.iso === geo.objectid);
-
+                                const cur = datosDiarios.find(s => s.iso === geo.properties.gmi_admin);
                                 return (
                                     <Geography 
                                         key={geo.rsmKey} 
