@@ -133,5 +133,14 @@
         "confirmados": 585,
         "sospechosos": 2156,
         "decesos": 8 
+    },
+    {
+        "fecha": "1585335600",
+        "fechaformat": "27-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 717,
+        "sospechosos": 2475,
+        "decesos": 12 
     }
 ]

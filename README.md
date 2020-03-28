@@ -1,5 +1,7 @@
 *Este proyecto es de desarrollo comunitario y carece de caracter oficial, por lo que se recomienda que sea usado unicamente a modo de consulta y acudir a fuentes oficiales*
 
+[Página de visualización ](https://jebusdoodles.github.io/mx-covid19/) 
+
 ## Formato de datos
 La base de datos se encuentra en src > database en dos archivos json uno con el estado nacional y otro con la información por estados.
 
@@ -21,13 +23,15 @@ Estados (db-estados.json):
 | Nombre      | Descripción       | Description          | Formato     | Ejemplo        |
 |-------------|-------------------|----------------------|-------------|----------------|
 | fecha       | Fecha de corte    | Date                 | unix format | 1584122400     |
-| iso         | Abreviatura       | Country abbreviation | iso 3166-2  | AGU            |
+| iso*        | Abreviatura       | Country abbreviation | especifico  | MEX-AGS        |
 | nombre      | Nombre            | Name                 | texto       | Aguascalientes |
 | lat         | latitud           | Latitude             | decimal     | 21.8823395     |
 | long        | longitud          | Longitude            | decimal     | -102.2825928   |
 | confirmados | Casos confirmados | Confirm              | numerico    | 0              |
 | sospechosos | Casos sospechosos | Suspect              | numerico    | 0              |
 | decesos     | Muertes           | Death                | numerico    | 0              |
+
+(*) En el caso de la abreviatura por estados antes se usaba iso 3166-2 pero este no funcionaba a ala hora de dibujar el mapa por lo que las abreviaturas por estado ahora se especifican en el documento sampleestados.json
 
 # Fuente de información y extracción
 La información es extraida de [Secretaría de salud](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario) y transcrita a las bibliotecas json como se ha referido antes.
@@ -62,11 +66,21 @@ No, la información es almacenada de forma local en archivos json.
 
 -¿En que esta desarrollado?
 
-La página esta desarrollada en [React](https://es.reactjs.org/) para el consumo de datos y la visualización empaquetada con Create React App y publicada en github pages. La información es extraida de pdf usando un script en Python 3.
+La página esta desarrollada en [React](https://es.reactjs.org/) para el consumo de datos y la visualización de datos con [D3](https://d3js.org/), mapas con [React Single Map](https://www.react-simple-maps.io/) y empaquetada con Create React App y publicada en github pages. La información es extraida de pdf usando un script en Python3.
 
 # Información de contacto 
 
 Pueden contactarse conmigo para información adicional, sugerencias o comentarios a mi correo personal jesus.cortes.code@gmail.com o en mi cuenta de [twitter](https://twitter.com/JebusDoodles)
+
+# Otros sitios de intéres
+
+-[Página oficial de la Secretaria de Salud](https://coronavirus.gob.mx/)
+-Proyecto [Frenan la curva MX](hhttps://mx.frenalacurva.net/)
+-[Visualizador](http://covidatos.mx/) hecho por Eli Parra
+
+
+# Recursos externos 
+-Mapa geojson por [Ali G](https://gist.github.com/ponentesincausa/46d1d9a94ca04a56f93d)
 
 # Licencia
 

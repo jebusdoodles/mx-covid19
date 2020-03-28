@@ -14,15 +14,11 @@ class MapSelector extends Component {
         const colorScale = scaleQuantile()
             .domain(datosDiarios.map(d => d.confirmados))
             .range([
-                "#ffedea",
-                "#ffcec5",
-                "#ffad9f",
-                "#ff8a75",
-                "#ff5533",
-                "#e2492d",
-                "#be3d26",
-                "#9a311f",
-                "#782618"
+                "#fef1d2",
+                "#fedfa9",
+                "#f3c379",
+                "#e19254",
+                "#c35646"
               ]);
 
         let project = geoConicConformal()
@@ -35,20 +31,20 @@ class MapSelector extends Component {
         return (
             <div>
                 <ComposableMap projection={project}>
-                    <Geographies geography={mapData}>
-                        {({geographies}) => 
-                            geographies.map(geo => {
-                                const cur = datosDiarios.find(s => s.iso === geo.properties.gmi_admin);
-                                return (
-                                    <Geography 
-                                        key={geo.rsmKey} 
-                                        geography={geo} 
-                                        fill={cur ? colorScale(cur.confirmados) : "#a3a3a3"}
-                                    />
-                                );
-                            })
-                        }
-                    </Geographies>
+                        <Geographies geography={mapData}>
+                            {({geographies}) => 
+                                geographies.map(geo => {
+                                    const cur = datosDiarios.find(s => s.iso === geo.properties.gmi_admin);
+                                    return (
+                                        <Geography 
+                                            key={geo.rsmKey} 
+                                            geography={geo} 
+                                            fill={cur ? colorScale(cur.confirmados) : "#a3a3a3"}
+                                        />
+                                    );
+                                })
+                            }
+                        </Geographies>
                 </ComposableMap>
             </div>
         );
