@@ -40,6 +40,7 @@ class MapSelector extends Component {
                                             key={geo.rsmKey} 
                                             geography={geo} 
                                             fill={cur ? colorScale(cur.confirmados) : "#a3a3a3"}
+                                            stroke="#17789b"
                                         />
                                     );
                                 })
