@@ -160,5 +160,14 @@
         "confirmados": 993,
         "sospechosos": 2564,
         "decesos": 20
+    },
+    {
+        "fecha": "1585594800",
+        "fechaformat": "30-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1094,
+        "sospechosos": 2752,
+        "decesos": 28
     }
 ]
