@@ -4,12 +4,12 @@ import MapSelector from './MapSelector';
 
 const StateMapContainer = ({ mapa, titulo }) => {
     return (
-        <div>
+        <>
             <div className='title-map-state'>{titulo}</div>
             <div className='svg-map-state'>
                 <MapSelector mapa={mapa} />
             </div>
-        </div>
+        </>
     );
 }
 

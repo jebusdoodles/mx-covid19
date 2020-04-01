@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 
 const CardSelector = ({tipo, titulo, cifra, subcifra}) => {
     return (
-        <div>
+        <>
             <Card className={tipo}>
                 <Card.Body>
                     <Card.Title className="card-titulo">{titulo}</Card.Title>
@@ -15,7 +15,7 @@ const CardSelector = ({tipo, titulo, cifra, subcifra}) => {
                     </Card.Text>
                 </Card.Body>
             </Card>
-        </div>
+        </>
     );
 }
 

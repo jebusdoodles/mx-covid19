@@ -8,7 +8,7 @@ import GeneralGraph from './GeneralGraph';
 export default class CentralContainer extends Component {
     render() {
         return (
-            <div>
+            <>
                 <Container className="contenedor-principal">
                     <Row className="justify-content-md-center">
                         <StateDataContainer />
@@ -25,7 +25,7 @@ export default class CentralContainer extends Component {
                         </Col>
                     </Row>
                 </Container>
-            </div>
+            </>
         )
     }
 }

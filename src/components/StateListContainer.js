@@ -7,7 +7,6 @@ const StateListContainer = () =>{
         let datosDiarios = dataset.slice(dataset.length - 32, dataset.length);
         //Ordenar lista de mayor a menor
         datosDiarios = datosDiarios.sort(({confirmados:a}, {confirmados:b}) => b-a);
-        // Imprimir los datos de una tabla
         return(
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
                 <tr key={c.iso}>

@@ -1,5 +1,11 @@
 import React from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Brush } from 'recharts';
+import { 
+            LineChart, 
+            Line, 
+            XAxis, 
+            YAxis, 
+            CartesianGrid, Tooltip, Legend, Brush, ReferenceLine 
+        } from 'recharts';
 import dbnacional from '../database/dbnacional'; 
 
 const GeneralGraph = () =>{
@@ -21,6 +27,9 @@ const GeneralGraph = () =>{
                 <Line type="monotone" dataKey="confirmados" stroke="#cc0000" />
                 <Line type="monotone" dataKey="sospechosos" stroke="#4C994C" />
                 <Line type="monotone" dataKey="decesos" stroke="#333" />
+                <ReferenceLine x="17-Marzo" stroke="#e19254" label="suspención de clases" strokeDasharray="3 3" />
+                <ReferenceLine x="30-Marzo" stroke="#e19254" label="emergencia sanitaria" strokeDasharray="3 3" />
+                <ReferenceLine x="24-Marzo" stroke="#e19254" label="fase 2" strokeDasharray="3 3" />
             </LineChart>
         </div>
     );
