@@ -2,10 +2,10 @@ import React from 'react';
 import Helmet from 'react-helmet'; 
 import ogImg from '../../assets/image/image.png'
 
-const SEO = () => (
+const SEO = (props) => (
     <>
         <Helmet>
-            <title>Tabla seguimiento - MX Covid-19</title>
+            <title>({props.confirmados}) MX COVID 19</title>
             <meta name="description" content="Tabla de seguimiento de los casos de COVID-19 (Coronavirus) en México" />
             <link rel="canonical" href="https://mx-covid19.github.io" />
                 { /* Tags de OpenGraph */ }

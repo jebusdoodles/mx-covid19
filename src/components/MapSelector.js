@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 import { geoConicConformal } from 'd3-geo';
 import { scaleQuantile } from 'd3-scale'; 
+import { Tooltip, OverlayTrigger } from 'react-bootstrap'; 
 import mapData from './../assets/maps/mexican.topojson'; 
 import dataset from '../database/dbestados';
 
@@ -27,27 +28,40 @@ class MapSelector extends Component {
             .parallels([17.5, 29.5])
             .scale(1200)
             .translate([width / 2, height / 2]);
+        
+        function renderTooltip(props) {
+            return (
+                <Tooltip id="button-tooltip">
+                    {props.nombre} <br/> <span className='tooltip-conf'>({props.confirmados})</span>
+                </Tooltip>
+            );
+        }
 
         return (
-            <div>
+            <>
                 <ComposableMap projection={project}>
                         <Geographies geography={mapData}>
                             {({geographies}) => 
                                 geographies.map(geo => {
                                     const cur = datosDiarios.find(s => s.iso === geo.properties.gmi_admin);
                                     return (
-                                        <Geography 
-                                            key={geo.rsmKey} 
-                                            geography={geo} 
-                                            fill={cur ? colorScale(cur.confirmados) : "#a3a3a3"}
-                                            stroke="#17789b"
-                                        />
+                                        <OverlayTrigger
+                                            placement="right"
+                                            overlay={renderTooltip(cur)}
+                                        >
+                                            <Geography 
+                                                key={geo.rsmKey} 
+                                                geography={geo}
+                                                fill={cur ? colorScale(cur.confirmados) : "#a3a3a3"}
+                                                stroke="#17789b"
+                                            />
+                                        </OverlayTrigger>
                                     );
                                 })
                             }
                         </Geographies>
                 </ComposableMap>
-            </div>
+            </>
         );
     }
 }
