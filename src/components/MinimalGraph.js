@@ -26,7 +26,7 @@ const MinimalGraph = () =>{
     }
     return(
         <div className='newcases-graph'>
-                <h4>Casos nuevos por dia</h4>
+                <h4>Casos nuevos por día</h4>
                 <BarChart
                     width={700}
                     height={200}
