@@ -47,6 +47,7 @@ class MapSelector extends Component {
                                     return (
                                         <OverlayTrigger
                                             placement="right"
+                                            key={geo.rsmKey}
                                             overlay={renderTooltip(cur)}
                                         >
                                             <Geography 
