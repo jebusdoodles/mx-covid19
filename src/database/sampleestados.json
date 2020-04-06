@@ -14,7 +14,7 @@
     "nombre": "Baja California Norte",
     "lat": 31.8714905,
     "long": -116.600708,
-    "confirmados": 54,
+    "confirmados": 69,
     "sospechosos": 0,
     "decesos": 5
 },
@@ -24,7 +24,7 @@
     "nombre": "Baja California Sur",
     "lat": 24.1443691,
     "long": -110.300499,
-    "confirmados": 27,
+    "confirmados": 28,
     "sospechosos": 0,
     "decesos": 2
 },
@@ -44,7 +44,7 @@
     "nombre": "Chiapas",
     "lat": 16.7597294,
     "long": -93.1130829,
-    "confirmados": 19,
+    "confirmados": 25,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -54,7 +54,7 @@
     "nombre": "Chihuahua",
     "lat": 28.6352806,
     "long": -106.0888901,
-    "confirmados": 13,
+    "confirmados": 15,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -64,7 +64,7 @@
     "nombre": "Ciudad de México",
     "lat": 23.6345005,
     "long": -102.5527878,
-    "confirmados": 469,
+    "confirmados": 560,
     "sospechosos": 0,
     "decesos": 17
 },
@@ -74,7 +74,7 @@
     "nombre": "Coahuila",
     "lat": 26.9068699,
     "long": -101.4205627,
-    "confirmados": 72,
+    "confirmados": 82,
     "sospechosos": 0,
     "decesos": 4
 },
@@ -94,7 +94,7 @@
     "nombre": "Durango",
     "lat": 24.0203209,
     "long": -104.6575623,
-    "confirmados": 10,
+    "confirmados": 12,
     "sospechosos": 0,
     "decesos": 2
 },
@@ -114,7 +114,7 @@
     "nombre": "Guerrero",
     "lat": 17.5506001,
     "long": -99.5057831,
-    "confirmados": 25,
+    "confirmados": 30,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -124,7 +124,7 @@
     "nombre": "Hidalgo",
     "lat": 20.1169701,
     "long": -98.7332916,
-    "confirmados": 32,
+    "confirmados": 34,
     "sospechosos": 0,
     "decesos": 5
 },
@@ -134,7 +134,7 @@
     "nombre": "Jalisco",
     "lat": 20.6668205,
     "long": -103.3918228,
-    "confirmados": 120,
+    "confirmados": 123,
     "sospechosos": 0,
     "decesos": 6
 },
@@ -144,7 +144,7 @@
     "nombre": "Estado de México",
     "lat": 19.354167,
     "long": -99.630833,
-    "confirmados": 180,
+    "confirmados": 204,
     "sospechosos": 0,
     "decesos": 3
 },
@@ -154,7 +154,7 @@
     "nombre": "Michoacán",
     "lat": 19.168611,
     "long": -101.899722,
-    "confirmados": 29,
+    "confirmados": 30,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -164,7 +164,7 @@
     "nombre": "Morelos",
     "lat": 18.7475,
     "long": -99.070278,
-    "confirmados": 14,
+    "confirmados": 15,
     "sospechosos": 0,
     "decesos": 3
 },
@@ -184,7 +184,7 @@
     "nombre": "Nuevo Leon",
     "lat": 25.566667,
     "long": -99.970556,
-    "confirmados": 88,
+    "confirmados": 91,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -194,7 +194,7 @@
     "nombre": "Oaxaca",
     "lat": 16.898056,
     "long": -96.414167,
-    "confirmados": 22,
+    "confirmados": 25,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -204,7 +204,7 @@
     "nombre": "Puebla",
     "lat": 19.003611,
     "long": -97.888333,
-    "confirmados": 125,
+    "confirmados": 147,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -214,7 +214,7 @@
     "nombre": "Queretaro",
     "lat": 20.591,
     "long": -100.391,
-    "confirmados": 36,
+    "confirmados": 38,
     "sospechosos": 0,
     "decesos": 2
 },
@@ -224,7 +224,7 @@
     "nombre": "Quintana Roo",
     "lat": 21.1742897,
     "long": -86.8465576,
-    "confirmados": 75,
+    "confirmados": 86,
     "sospechosos": 0,
     "decesos": 2
 },
@@ -234,7 +234,7 @@
     "nombre": "San Luis Potosí",
     "lat": 22.1498203,
     "long": -100.9791565,
-    "confirmados": 35,
+    "confirmados": 37,
     "sospechosos": 0,
     "decesos": 2
 },
@@ -244,7 +244,7 @@
     "nombre": "Sinaloa",
     "lat": 24.7903194,
     "long": -107.3878174,
-    "confirmados": 74,
+    "confirmados": 90,
     "sospechosos": 0,
     "decesos": 10
 },
@@ -254,7 +254,7 @@
     "nombre": "Sonora",
     "lat": 29.1026001,
     "long": -110.9773178,
-    "confirmados": 27,
+    "confirmados": 28,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -264,7 +264,7 @@
     "nombre": "Tabasco",
     "lat": 17.9868908,
     "long": -92.9302826,
-    "confirmados": 83,
+    "confirmados": 97,
     "sospechosos": 0,
     "decesos": 3
 },
@@ -274,7 +274,7 @@
     "nombre": "Tamaulipas",
     "lat": 22.2448406,
     "long": -97.8351974,
-    "confirmados": 20,
+    "confirmados": 26,
     "sospechosos": 0,
     "decesos": 1
 },
@@ -284,7 +284,7 @@
     "nombre": "Tlaxcala",
     "lat": 19.428889,
     "long": -98.160833,
-    "confirmados": 9,
+    "confirmados": 11,
     "sospechosos": 0,
     "decesos": 0
 },
@@ -294,7 +294,7 @@
     "nombre": "Veracruz",
     "lat": 19.190278,
     "long": -96.153333,
-    "confirmados": 37,
+    "confirmados": 40,
     "sospechosos": 0,
     "decesos": 3
 },
@@ -304,7 +304,7 @@
     "nombre": "Yucatan",
     "lat": 20.833333,
     "long": -89,
-    "confirmados": 62,
+    "confirmados": 67,
     "sospechosos": 0,
     "decesos": 0
 },
