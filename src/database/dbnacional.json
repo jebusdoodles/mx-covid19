@@ -250,5 +250,14 @@
         "confirmados": 3181,
         "sospechosos": 9188,
         "decesos": 174
+    },
+    {
+        "fecha": "1586458800",
+        "fechaformat": "9-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3441,
+        "sospechosos": 10105,
+        "decesos": 194
     }
 ]
