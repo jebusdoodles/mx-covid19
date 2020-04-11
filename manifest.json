@@ -1,6 +1,6 @@
 {
-  "short_name": "Mapa interactivo MX-COVID19",
-  "name": "Tabla de seguimiento de datos COVID19",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
