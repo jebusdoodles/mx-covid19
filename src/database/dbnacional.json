@@ -259,5 +259,14 @@
         "confirmados": 3441,
         "sospechosos": 10105,
         "decesos": 194
+    },
+    {
+        "fecha": "1586545200",
+        "fechaformat": "10-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3844,
+        "sospechosos": 10300,
+        "decesos": 233
     }
 ]
