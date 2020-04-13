@@ -5,6 +5,7 @@ import StateListContainer from './StateListContainer';
 import StateDataContainer from './StateDataContainer';
 import GeneralGraph from './GeneralGraph';
 import MinimalGraph from './MinimalGraph';
+import MortalityGraph from './MortalityGraph';
 
 export default class CentralContainer extends Component {
     render() {
@@ -27,6 +28,9 @@ export default class CentralContainer extends Component {
                     </Row>
                     <Row>
                         <MinimalGraph />
+                    </Row>
+                    <Row>
+                        <MortalityGraph />
                     </Row>
                 </Container>
             </>

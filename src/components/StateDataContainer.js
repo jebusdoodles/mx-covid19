@@ -22,15 +22,42 @@ const StateDataContainer = () =>{
                     <CardSelector tipo='suspect' titulo='Sospechosos' cifra={sus} subcifra={sosdiff} />
                 </Col>
                 <Col>
-                    <CardSelector tipo='mortality' titulo='Decesos' cifra={des} subcifra={desdiff} />
+                    <CardSelector tipo='mortality' titulo='Defunciones' cifra={des} subcifra={desdiff} />
                 </Col>
             </Row>
         ) 
+    }
+    const panelPerDay = data =>{
+        let total = data.length; 
+        let ultimo = data.length - 7; 
+        return(
+            <Row className='panel-div'>
+                <Col>
+                    <p className='data-title'>Fecha</p>
+                    <p className='data-panel dp-c'>Confirmados</p>
+                    <p className='data-panel dp-s'>Sospechosos</p>
+                    <p className='data-panel dp-d'>Defunciones</p>
+                </Col>
+                {
+                    data.slice(ultimo - total).map(c =>
+                        <Col key={c.key}>
+                            <p className="data-date">{c.fechaformat}</p>
+                            <p className="data-panel dp-c">{c.confirmados}</p>
+                            <p className="data-panel dp-s">{c.sospechosos}</p>
+                            <p className="data-panel dp-d">{c.decesos}</p>
+                        </Col>
+                    )
+                }
+            </Row>
+        )
     }
     return (
         <div>
             {
                 handleData(dataset)
+            }
+            {
+                panelPerDay(dataset)
             }
         </div>
     );
