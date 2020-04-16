@@ -304,5 +304,14 @@
         "confirmados": 5399,
         "sospechosos": 10792,
         "decesos": 406
+    },
+    {
+        "fecha": "1586977200",
+        "fechaformat": "15-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5847,
+        "sospechosos": 11717,
+        "decesos": 449
     }
 ]
