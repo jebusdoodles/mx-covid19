@@ -331,5 +331,14 @@
         "confirmados": 6875,
         "sospechosos": 13364,
         "decesos": 546
+    },
+    {
+        "fecha": "1587236400",
+        "fechaformat": "18-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 7497,
+        "sospechosos": 12369,
+        "decesos": 650
     }
 ]
