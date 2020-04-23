@@ -367,5 +367,14 @@
         "confirmados": 9501,
         "sospechosos": 8262,
         "decesos": 857
+    },
+    {
+        "fecha": "1587582000",
+        "fechaformat": "22-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 10544,
+        "sospechosos": 7706,
+        "decesos": 970
     }
 ]
