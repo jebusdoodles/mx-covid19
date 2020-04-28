@@ -412,5 +412,14 @@
         "confirmados": 14677,
         "sospechosos": 7612,
         "decesos": 1351
+    },
+    {
+        "fecha": "1588014000",
+        "fechaformat": "27-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 15529,
+        "sospechosos": 8614,
+        "decesos": 1434
     }
 ]
