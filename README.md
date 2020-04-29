@@ -76,7 +76,6 @@ Pueden contactarse conmigo para información adicional, sugerencias o comentario
 
 -[Página oficial de la Secretaria de Salud](https://coronavirus.gob.mx/)
 -Proyecto [Frenan la curva MX](hhttps://mx.frenalacurva.net/)
--[Visualizador](http://covidatos.mx/) hecho por Eli Parra
 
 
 # Recursos externos 

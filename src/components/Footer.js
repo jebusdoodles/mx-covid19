@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaHeart } from "react-icons/fa";
+import { FaHeart, FaGithubAlt, FaRegNewspaper } from "react-icons/fa";
 import { Container, Row } from 'react-bootstrap'; 
 
 const Footer = () =>{
@@ -8,7 +8,12 @@ const Footer = () =>{
             <Container>
                 <Row className="justify-content-md-center">
                     <div className='links-adicionales'>
-                        <h4>Links adicionales</h4>
+                        <h4>Más información</h4>
+                        <p>
+                            <li><a href='https://jebusdoodles.wordpress.com/2020/04/13/panel-seguimiento-mxcovid19/'><FaRegNewspaper /> ¿Como lo hice? y preguntas frecuentes</a></li>
+                            <li><a href='https://github.com/jebusdoodles/mx-covid19'><FaGithubAlt /> Repositorio de GitHub</a></li>
+                        </p>
+                        <h4>Sitios adicionaless</h4>
                         <p>
                             <li><a href='https://coronavirus.gob.mx/'>Sitio oficial Secretaria de Salud [MX]</a></li>
                             <li><a href='https://mexico.frenalacurva.net/'>Iniciativa Frena la Curva [MX]</a></li>
