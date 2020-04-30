@@ -430,5 +430,14 @@
         "confirmados": 16752,
         "sospechosos": 11220,
         "decesos": 1569
+    },
+    {
+        "fecha": "1588186800",
+        "fechaformat": "29-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 17799,
+        "sospechosos": 13263,
+        "decesos": 1732
     }
 ]
