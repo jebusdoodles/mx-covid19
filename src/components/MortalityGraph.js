@@ -27,21 +27,21 @@ const MortalityGraph = () =>{
     return(
         <div className='newcases-graph'>
                 <h4>Defunciones por día</h4>
-                <LineChart
-                    width={700}
-                    height={200}
-                    data={mortDays()}
-                    margin={{
-                    top: 5, right: 30, left: 20, bottom: 5,
-                    }}
-                >
-                    <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="dia" />
-                    <YAxis dataKey="decesos" />
-                    <Tooltip />
-                    <Legend />
-                    <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" label={{ position: 'insideTopLeft' }} />
-                </LineChart>
+                    <LineChart
+                        width={700}
+                        height={200}
+                        data={mortDays()}
+                        margin={{
+                        top: 5, right: 30, left: 20, bottom: 5,
+                        }}
+                    >
+                        <CartesianGrid strokeDasharray="3 3" />
+                        <XAxis dataKey="dia" />
+                        <YAxis dataKey="decesos" />
+                        <Tooltip />
+                        <Legend />
+                        <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" label={{ position: 'insideTopLeft' }} />
+                    </LineChart>
         </div>
     ); 
 }

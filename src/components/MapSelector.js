@@ -39,7 +39,7 @@ class MapSelector extends Component {
 
         return (
             <>
-                <ComposableMap projection={project}>
+                <ComposableMap projection={project} height={450}>
                         <Geographies geography={mapData}>
                             {({geographies}) => 
                                 geographies.map(geo => {
