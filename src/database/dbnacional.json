@@ -466,5 +466,14 @@
         "confirmados": 22088,
         "sospechosos": 14536,
         "decesos": 2061
+    },
+    {
+        "fecha": "1588532400",
+        "fechaformat": "3-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 23471,
+        "sospechosos": 12664,
+        "decesos": 2154
     }
 ]
