@@ -19,10 +19,10 @@ export default class CentralContainer extends Component {
                         <GeneralGraph />
                     </Row>
                     <Row>
-                        <Col xs={12} md={8}>
+                        <Col xs={10} md={7}>
                             <StateMapContainer mapa='mx' titulo='México' />
                         </Col>
-                        <Col xs={6} md={4}>
+                        <Col xs={8} md={5}>
                             <StateListContainer />
                         </Col>
                     </Row>

@@ -14,7 +14,10 @@ const StateListContainer = () =>{
                 datosListado.push({
                     nombre: datosDiarios[i].nombre,
                     confirmados: datosDiarios[i].confirmados,
-                    diferencia: datosDiarios[i].confirmados - datosPasados[i].confirmados
+                    diferencia: datosDiarios[i].confirmados - datosPasados[i].confirmados,
+                    decesos: datosDiarios[i].decesos,
+                    diferenciaDecesos: datosDiarios[i].decesos - datosPasados[i].decesos,
+                    rateDeath: datosDiarios[i].decesos * 100 / datosPasados[i].confirmados
                 }); 
             }
             return(datosListado); 
@@ -24,11 +27,22 @@ const StateListContainer = () =>{
 
         //Ordenar lista de mayor a menor
         datosDiarios = datosDiarios.sort(({confirmados:a}, {confirmados:b}) => b-a);
+
+        let residuoDeathRate =(x, pos =2) =>{
+            var s = x.toString()
+
+            var decimalLength = s.indexOf('.') + 1
+            var numStr = s.substr(0, decimalLength + pos)
+            return Number(numStr)
+        } 
+
         return(
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
                 <tr key={c.iso}>
                     <td>{c.nombre}</td>
                     <td className='tabla-conf'>{c.confirmados} {c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
+                    <td className='tabla-conf'>{c.decesos} {c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
+                    <td>{residuoDeathRate(c.rateDeath)} %</td>
                 </tr>             
             )
         )
@@ -40,6 +54,8 @@ const StateListContainer = () =>{
                     <tr>
                         <th className='tabla-header'>Estado</th>
                         <th className='tabla-header'>Confirmados</th>
+                        <th className='tabla-header'>Decesos</th>
+                        <th className='tabla-header'>Tasa de mortalidad</th>
                     </tr>
                 </thead>
                 <tbody>
