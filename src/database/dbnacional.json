@@ -502,5 +502,14 @@
         "confirmados": 27634,
         "sospechosos": 17553,
         "decesos": 2704
+    },
+    {
+        "fecha": "1588878000",
+        "fechaformat": "7-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 29616,
+        "sospechosos": 18812,
+        "decesos": 2961
     }
 ]
