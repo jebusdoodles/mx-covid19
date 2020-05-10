@@ -16,6 +16,7 @@ const Footer = () =>{
                         <h4>Sitios adicionaless</h4>
                         <p>
                             <li><a href='https://coronavirus.gob.mx/'>Sitio oficial Secretaria de Salud [MX]</a></li>
+                            <li><a href='https://viral.datacivica.org/la-respuesta-estados'>Los estados peor preparados - Data Civika[MX]</a></li>
                             <li><a href='https://mexico.frenalacurva.net/'>Iniciativa Frena la Curva [MX]</a></li>
                             <li><a href='http://covidatos.mx/'>Tablero de datos COVIDATOSMX (Descontuinado)</a></li>
                         </p>
