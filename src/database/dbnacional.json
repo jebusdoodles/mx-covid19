@@ -538,5 +538,14 @@
         "confirmados": 35022,
         "sospechosos": 19979,
         "decesos": 3465
+    },
+    {
+        "fecha": "1589223600",
+        "fechaformat": "11-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 36327,
+        "sospechosos": 20991,
+        "decesos": 3573
     }
 ]
