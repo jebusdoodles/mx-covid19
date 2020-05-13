@@ -547,5 +547,14 @@
         "confirmados": 36327,
         "sospechosos": 20991,
         "decesos": 3573
+    },
+    {
+        "fecha": "1589310000",
+        "fechaformat": "12-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 38324,
+        "sospechosos": 22980,
+        "decesos": 3926
     }
 ]
