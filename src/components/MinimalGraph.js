@@ -40,7 +40,7 @@ const MinimalGraph = () =>{
                     <YAxis dataKey="suma" />
                     <Tooltip />
                     <Legend />
-                    <Bar type="monotone" dataKey="suma" fill="#f49435" label={{ position: 'top' }} />
+                    <Bar type="monotone" dataKey="suma" fill="#f49435" label={{ position: 'center', angle: 90 }} />
                 </BarChart>
         </div>
     ); 

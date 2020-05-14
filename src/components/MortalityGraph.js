@@ -40,7 +40,7 @@ const MortalityGraph = () =>{
                         <YAxis dataKey="decesos" />
                         <Tooltip />
                         <Legend />
-                        <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" label={{ position: 'insideTopLeft' }} />
+                        <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" label={{ position: 'insideTopLeft', angle: 90 }} />
                     </LineChart>
         </div>
     ); 
