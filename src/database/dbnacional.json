@@ -574,5 +574,14 @@
         "confirmados": 42595,
         "sospechosos": 26746,
         "decesos": 4477
+    },
+    {
+        "fecha": "1589482800",
+        "fechaformat": "14-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 45032,
+        "sospechosos": 29028,
+        "decesos": 4767
     }
 ]
