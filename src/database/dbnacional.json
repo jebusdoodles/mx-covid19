@@ -577,11 +577,20 @@
     },
     {
         "fecha": "1589482800",
-        "fechaformat": "14-Mayo",
+        "fechaformat": "15-Mayo",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 45032,
         "sospechosos": 29028,
         "decesos": 4767
+    },
+    {
+        "fecha": "1589655600",
+        "fechaformat": "16-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 47144,
+        "sospechosos": 29409,
+        "decesos": 5045
     }
 ]
