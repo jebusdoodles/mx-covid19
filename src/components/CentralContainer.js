@@ -5,6 +5,7 @@ import StateListContainer from './StateListContainer';
 import StateDataContainer from './StateDataContainer';
 import GeneralGraph from './GeneralGraph';
 import MinimalGraph from './MinimalGraph';
+import DailySumTable from './DailySumTable';
 import MortalityGraph from './MortalityGraph';
 
 export default class CentralContainer extends Component {
