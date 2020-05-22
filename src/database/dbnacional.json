@@ -619,5 +619,23 @@
         "confirmados": 54346,
         "sospechosos": 29450,
         "decesos": 5666
+    },
+    {
+        "fecha": "1590001200",
+        "fechaformat": "20-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 56594,
+        "sospechosos": 31866,
+        "decesos": 6090
+    },
+    {
+        "fecha": "1590087600",
+        "fechaformat": "21-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 59567,
+        "sospechosos": 33291,
+        "decesos": 6510
     }
 ]

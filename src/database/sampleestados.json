@@ -1,320 +1,320 @@
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-AGS",
     "nombre": "Aguascalientes",
     "lat": 21.8823395,
     "long": -102.2825928,
-    "confirmados": 522,
+    "confirmados": 595,
     "sospechosos": 0,
-    "decesos": 20
+    "decesos": 21
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-BCN",
     "nombre": "Baja California Norte",
     "lat": 31.8714905,
     "long": -116.600708,
-    "confirmados": 3531,
+    "confirmados": 3829,
     "sospechosos": 0,
-    "decesos": 582
+    "decesos": 637
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-BCS",
     "nombre": "Baja California Sur",
     "lat": 24.1443691,
     "long": -110.300499,
-    "confirmados": 465,
+    "confirmados": 488,
     "sospechosos": 0,
-    "decesos": 27
+    "decesos": 29
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-CMP",
     "nombre": "Campeche",
     "lat": 19.8454,
     "long": -90.5237,
-    "confirmados": 407,
+    "confirmados": 443,
     "sospechosos": 0,
-    "decesos": 45
+    "decesos": 50
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-CHP",
     "nombre": "Chiapas",
     "lat": 16.7597294,
     "long": -93.1130829,
-    "confirmados": 710,
+    "confirmados": 779,
     "sospechosos": 0,
-    "decesos": 59
+    "decesos": 64
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-CHH",
     "nombre": "Chihuahua",
     "lat": 28.6352806,
     "long": -106.0888901,
-    "confirmados": 959,
+    "confirmados": 1095,
     "sospechosos": 0,
-    "decesos": 202
+    "decesos": 224
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-DTD",
     "nombre": "Ciudad de México",
     "lat": 23.6345005,
     "long": -102.5527878,
-    "confirmados": 18279,
+    "confirmados": 20076,
     "sospechosos": 0,
-    "decesos": 1452
+    "decesos": 1754
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-CDZ",
     "nombre": "Coahuila",
     "lat": 26.9068699,
     "long": -101.4205627,
-    "confirmados": 710,
+    "confirmados": 779,
     "sospechosos": 0,
-    "decesos": 59
+    "decesos": 62
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-COL",
     "nombre": "Colima",
     "lat": 19.2433,
     "long": -103.725,
-    "confirmados": 74,
+    "confirmados": 86,
     "sospechosos": 0,
-    "decesos": 10
+    "decesos": 12
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
     "iso": "MEX-DRN",
     "nombre": "Durango",
     "lat": 24.0203209,
     "long": -104.6575623,
-    "confirmados": 176,
-    "sospechosos": 0,
-    "decesos": 18
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-GNJ",
-    "nombre": "Guanajuato",
-    "lat": 21.1290798,
-    "long": -101.6737366,
-    "confirmados": 804,
-    "sospechosos": 0,
-    "decesos": 78
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-GRR",
-    "nombre": "Guerrero",
-    "lat": 17.5506001,
-    "long": -99.5057831,
-    "confirmados": 861,
-    "sospechosos": 0,
-    "decesos": 128
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-HDL",
-    "nombre": "Hidalgo",
-    "lat": 20.1169701,
-    "long": -98.7332916,
-    "confirmados": 960,
-    "sospechosos": 0,
-    "decesos": 167
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-JLS",
-    "nombre": "Jalisco",
-    "lat": 20.6668205,
-    "long": -103.3918228,
-    "confirmados": 927,
-    "sospechosos": 0,
-    "decesos": 90
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-MEX",
-    "nombre": "Estado de México",
-    "lat": 19.354167,
-    "long": -99.630833,
-    "confirmados": 6034,
-    "sospechosos": 0,
-    "decesos": 503
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-MDO",
-    "nombre": "Michoacán",
-    "lat": 19.168611,
-    "long": -101.899722,
-    "confirmados": 1063,
-    "sospechosos": 0,
-    "decesos": 94
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-MRL",
-    "nombre": "Morelos",
-    "lat": 18.7475,
-    "long": -99.070278,
-    "confirmados": 1073,
-    "sospechosos": 0,
-    "decesos": 182
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-NYR",
-    "nombre": "Nayarit",
-    "lat": 21.743889,
-    "long": -105.228333,
-    "confirmados": 320,
-    "sospechosos": 0,
-    "decesos": 35
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-NLE",
-    "nombre": "Nuevo Leon",
-    "lat": 25.566667,
-    "long": -99.970556,
-    "confirmados": 963,
-    "sospechosos": 0,
-    "decesos": 54
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-OAX",
-    "nombre": "Oaxaca",
-    "lat": 16.898056,
-    "long": -96.414167,
-    "confirmados": 682,
-    "sospechosos": 0,
-    "decesos": 78
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-PUE",
-    "nombre": "Puebla",
-    "lat": 19.003611,
-    "long": -97.888333,
-    "confirmados": 1624,
-    "sospechosos": 0,
-    "decesos": 220
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-QDA",
-    "nombre": "Queretaro",
-    "lat": 20.591,
-    "long": -100.391,
-    "confirmados": 537,
-    "sospechosos": 0,
-    "decesos": 52
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-QRO",
-    "nombre": "Quintana Roo",
-    "lat": 21.1742897,
-    "long": -86.8465576,
-    "confirmados": 1624,
-    "sospechosos": 0,
-    "decesos": 262
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-SLP",
-    "nombre": "San Luis Potosí",
-    "lat": 22.1498203,
-    "long": -100.9791565,
-    "confirmados": 498,
+    "confirmados": 190,
     "sospechosos": 0,
     "decesos": 23
 },
 {
-    "fecha": "1589914800",
-    "iso": "MEX-SIN",
-    "nombre": "Sinaloa",
-    "lat": 24.7903194,
-    "long": -107.3878174,
-    "confirmados": 2088,
-    "sospechosos": 0,
-    "decesos": 320
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-SON",
-    "nombre": "Sonora",
-    "lat": 29.1026001,
-    "long": -110.9773178,
-    "confirmados": 927,
-    "sospechosos": 0,
-    "decesos": 45
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-TBS",
-    "nombre": "Tabasco",
-    "lat": 17.9868908,
-    "long": -92.9302826,
-    "confirmados": 2543,
-    "sospechosos": 0,
-    "decesos": 329
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-TML",
-    "nombre": "Tamaulipas",
-    "lat": 22.2448406,
-    "long": -97.8351974,
-    "confirmados": 1064,
-    "sospechosos": 0,
-    "decesos": 69
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-TLX",
-    "nombre": "Tlaxcala",
-    "lat": 19.428889,
-    "long": -98.160833,
-    "confirmados": 636,
-    "sospechosos": 0,
-    "decesos": 106
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-VLL",
-    "nombre": "Veracruz",
-    "lat": 19.190278,
-    "long": -96.153333,
-    "confirmados": 2154,
-    "sospechosos": 0,
-    "decesos": 261
-},
-{
-    "fecha": "1589914800",
-    "iso": "MEX-YCT",
-    "nombre": "Yucatan",
-    "lat": 20.833333,
-    "long": -89,
-    "confirmados": 1199,
+    "fecha": "1590087600",
+    "iso": "MEX-GNJ",
+    "nombre": "Guanajuato",
+    "lat": 21.1290798,
+    "long": -101.6737366,
+    "confirmados": 906,
     "sospechosos": 0,
     "decesos": 84
 },
 {
-    "fecha": "1589914800",
+    "fecha": "1590087600",
+    "iso": "MEX-GRR",
+    "nombre": "Guerrero",
+    "lat": 17.5506001,
+    "long": -99.5057831,
+    "confirmados": 940,
+    "sospechosos": 0,
+    "decesos": 147
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-HDL",
+    "nombre": "Hidalgo",
+    "lat": 20.1169701,
+    "long": -98.7332916,
+    "confirmados": 1086,
+    "sospechosos": 0,
+    "decesos": 193
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-JLS",
+    "nombre": "Jalisco",
+    "lat": 20.6668205,
+    "long": -103.3918228,
+    "confirmados": 1034,
+    "sospechosos": 0,
+    "decesos": 96
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-MEX",
+    "nombre": "Estado de México",
+    "lat": 19.354167,
+    "long": -99.630833,
+    "confirmados": 6369,
+    "sospechosos": 0,
+    "decesos": 622
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-MDO",
+    "nombre": "Michoacán",
+    "lat": 19.168611,
+    "long": -101.899722,
+    "confirmados": 1184,
+    "sospechosos": 0,
+    "decesos": 107
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-MRL",
+    "nombre": "Morelos",
+    "lat": 18.7475,
+    "long": -99.070278,
+    "confirmados": 1132,
+    "sospechosos": 0,
+    "decesos": 210
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-NYR",
+    "nombre": "Nayarit",
+    "lat": 21.743889,
+    "long": -105.228333,
+    "confirmados": 348,
+    "sospechosos": 0,
+    "decesos": 38
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-NLE",
+    "nombre": "Nuevo Leon",
+    "lat": 25.566667,
+    "long": -99.970556,
+    "confirmados": 1043,
+    "sospechosos": 0,
+    "decesos": 58
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-OAX",
+    "nombre": "Oaxaca",
+    "lat": 16.898056,
+    "long": -96.414167,
+    "confirmados": 797,
+    "sospechosos": 0,
+    "decesos": 89
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-PUE",
+    "nombre": "Puebla",
+    "lat": 19.003611,
+    "long": -97.888333,
+    "confirmados": 1828,
+    "sospechosos": 0,
+    "decesos": 244
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-QDA",
+    "nombre": "Queretaro",
+    "lat": 20.591,
+    "long": -100.391,
+    "confirmados": 632,
+    "sospechosos": 0,
+    "decesos": 61
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-QRO",
+    "nombre": "Quintana Roo",
+    "lat": 21.1742897,
+    "long": -86.8465576,
+    "confirmados": 1440,
+    "sospechosos": 0,
+    "decesos": 280
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-SLP",
+    "nombre": "San Luis Potosí",
+    "lat": 22.1498203,
+    "long": -100.9791565,
+    "confirmados": 563,
+    "sospechosos": 0,
+    "decesos": 25
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-SIN",
+    "nombre": "Sinaloa",
+    "lat": 24.7903194,
+    "long": -107.3878174,
+    "confirmados": 2252,
+    "sospechosos": 0,
+    "decesos": 354
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-SON",
+    "nombre": "Sonora",
+    "lat": 29.1026001,
+    "long": -110.9773178,
+    "confirmados": 1066,
+    "sospechosos": 0,
+    "decesos": 53
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-TBS",
+    "nombre": "Tabasco",
+    "lat": 17.9868908,
+    "long": -92.9302826,
+    "confirmados": 2811,
+    "sospechosos": 0,
+    "decesos": 361
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-TML",
+    "nombre": "Tamaulipas",
+    "lat": 22.2448406,
+    "long": -97.8351974,
+    "confirmados": 1114,
+    "sospechosos": 0,
+    "decesos": 76
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-TLX",
+    "nombre": "Tlaxcala",
+    "lat": 19.428889,
+    "long": -98.160833,
+    "confirmados": 690,
+    "sospechosos": 0,
+    "decesos": 117
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-VLL",
+    "nombre": "Veracruz",
+    "lat": 19.190278,
+    "long": -96.153333,
+    "confirmados": 2363,
+    "sospechosos": 0,
+    "decesos": 292
+},
+{
+    "fecha": "1590087600",
+    "iso": "MEX-YCT",
+    "nombre": "Yucatan",
+    "lat": 20.833333,
+    "long": -89,
+    "confirmados": 1318,
+    "sospechosos": 0,
+    "decesos": 100
+},
+{
+    "fecha": "1590087600",
     "iso": "MEX-ZCT",
     "nombre": "Zacatecas",
     "lat": 23.292778,
     "long": -102.700556,
-    "confirmados": 197,
+    "confirmados": 205,
     "sospechosos": 0,
-    "decesos": 26
+    "decesos": 27
 }
