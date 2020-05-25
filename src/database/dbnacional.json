@@ -655,5 +655,14 @@
         "confirmados": 65856,
         "sospechosos": 31663,
         "decesos": 7179
+    },
+    {
+        "fecha": "1590260400",
+        "fechaformat": "24-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 68620,
+        "sospechosos": 28931,
+        "decesos": 7394
     }
 ]
