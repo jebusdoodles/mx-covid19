@@ -673,5 +673,14 @@
         "confirmados": 71105,
         "sospechosos": 29509,
         "decesos": 7633
+    },
+    {
+        "fecha": "1590519600",
+        "fechaformat": "26-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 74560,
+        "sospechosos": 31878,
+        "decesos": 8134
     }
 ]
