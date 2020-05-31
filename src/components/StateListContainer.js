@@ -1,11 +1,13 @@
 import React from 'react';
 import { Table } from 'react-bootstrap';
 import dataset from '../database/dbestados';
+import dbpoblacion from '../database/dbpoblacion.json';
 
 const StateListContainer = () =>{
     const handleList = () =>{
         let datosDiarios = dataset.slice(dataset.length - 32, dataset.length);
         let datosPasados = dataset.slice(dataset.length - 64, dataset.length - 32);
+        let datosPoblacion = dbpoblacion;
 
         // funcion para crear un nuevo arraylist con coparación de datos anteriores
         let datosLista = () =>{
@@ -17,7 +19,8 @@ const StateListContainer = () =>{
                     diferencia: datosDiarios[i].confirmados - datosPasados[i].confirmados,
                     decesos: datosDiarios[i].decesos,
                     diferenciaDecesos: datosDiarios[i].decesos - datosPasados[i].decesos,
-                    rateDeath: datosDiarios[i].decesos * 100 / datosPasados[i].confirmados
+                    rateDeath: datosDiarios[i].decesos * 100 / datosPasados[i].confirmados,
+                    rateConfirmed: datosDiarios[i].confirmados * 100 / datosPoblacion[i].poblacion
                 }); 
             }
             return(datosListado); 
@@ -40,9 +43,10 @@ const StateListContainer = () =>{
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
                 <tr key={c.iso}>
                     <td>{c.nombre}</td>
-                    <td className='tabla-conf'>{c.confirmados} {c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
-                    <td className='tabla-conf'>{c.decesos} {c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
+                    <td className='tabla-conf'>{c.confirmados}<br></br>{c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
+                    <td className='tabla-conf'>{c.decesos}<br></br>{c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
                     <td>{residuoDeathRate(c.rateDeath)} %</td>
+                    <td>{residuoDeathRate(c.rateConfirmed)} %</td>
                 </tr>             
             )
         )
@@ -54,8 +58,9 @@ const StateListContainer = () =>{
                     <tr>
                         <th className='tabla-header'>Estado</th>
                         <th className='tabla-header'>Confirmados</th>
-                        <th className='tabla-header'>Decesos</th>
-                        <th className='tabla-header'>Tasa de mortalidad</th>
+                        <th className='tabla-header'>Defunciones</th>
+                        <th className='tabla-header'>Tasa de letalidad</th>
+                        <th className='tabla-header'>Confirmados per capita</th>
                     </tr>
                 </thead>
                 <tbody>

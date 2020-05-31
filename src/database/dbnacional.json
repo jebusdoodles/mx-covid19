@@ -709,5 +709,14 @@
         "confirmados": 84627,
         "sospechosos": 38846,
         "decesos": 9415
+    },
+    {
+        "fecha": "1590865200",
+        "fechaformat": "30-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 87512,
+        "sospechosos": 38994,
+        "decesos": 9779
     }
 ]

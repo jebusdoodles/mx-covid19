@@ -1,0 +1,162 @@
+[
+    {
+        "iso": "MEX-AGS",
+        "nombre": "Aguascalientes",
+        "poblacion": 1184996
+    },
+    {
+        "iso": "MEX-BCN",
+        "nombre": "Baja California Norte",
+        "poblacion": 3155070
+    },
+    {
+        "iso": "MEX-BCS",
+        "nombre": "Baja California Sur",
+        "poblacion": 637026
+    },
+    {
+        "iso": "MEX-CMP",
+        "nombre": "Campeche",
+        "poblacion": 822441
+    },
+    {
+        "iso": "MEX-CHP",
+        "nombre": "Chiapas",
+        "poblacion": 4796580
+    },
+    {
+        "iso": "MEX-CHH",
+        "nombre": "Chihuahua",
+        "poblacion": 3406465
+    },
+    {
+        "iso": "MEX-DTD",
+        "nombre": "Ciudad de México",
+        "poblacion": 8851080
+    },
+    {
+        "iso": "MEX-CDZ",
+        "nombre": "Coahuila",
+        "poblacion": 2748391
+    },
+    {
+        "iso": "MEX-COL",
+        "nombre": "Colima",
+        "poblacion": 650555
+    },
+    {
+        "iso": "MEX-DRN",
+        "nombre": "Durango",
+        "poblacion": 1632934
+    },
+    {
+        "iso": "MEX-GNJ",
+        "nombre": "Guanajuato",
+        "poblacion": 5486372
+    },
+    {
+        "iso": "MEX-GRR",
+        "nombre": "Guerrero",
+        "poblacion": 3388768
+    },
+    {
+        "iso": "MEX-HDL",
+        "nombre": "Hidalgo",
+        "poblacion": 2665018
+    },
+    {
+        "iso": "MEX-JLS",
+        "nombre": "Jalisco",
+        "poblacion": 7350682
+    },
+    {
+        "iso": "MEX-MEX",
+        "nombre": "Estado de México",
+        "poblacion": 15175862
+    },
+    {
+        "iso": "MEX-MDO",
+        "nombre": "Michoacán",
+        "poblacion": 4351037
+    },
+    {
+        "iso": "MEX-MRL",
+        "nombre": "Morelos",
+        "poblacion": 1777227
+    },
+    {
+        "iso": "MEX-NYR",
+        "nombre": "Nayarit",
+        "poblacion": 1084979
+    },
+    {
+        "iso": "MEX-NLE",
+        "nombre": "Nuevo Leon",
+        "poblacion": 4653458
+    },
+    {
+        "iso": "MEX-OAX",
+        "nombre": "Oaxaca",
+        "poblacion": 3801962
+    },
+    {
+        "iso": "MEX-PUE",
+        "nombre": "Puebla",
+        "poblacion": 5779829
+    },
+    {
+        "iso": "MEX-QDA",
+        "nombre": "Queretaro",
+        "poblacion": 1827937
+    },
+    {
+        "iso": "MEX-QRO",
+        "nombre": "Quintana Roo",
+        "poblacion": 1325578
+    },
+    {
+        "iso": "MEX-SLP",
+        "nombre": "San Luis Potosí",
+        "poblacion": 2585518
+    },
+    {
+        "iso": "MEX-SIN",
+        "nombre": "Sinaloa",
+        "poblacion": 2767761
+    },
+    {
+        "iso": "MEX-SON",
+        "nombre": "Sonora",
+        "poblacion": 2662480
+    },
+    {
+        "iso": "MEX-TBS",
+        "nombre": "Tabasco",
+        "poblacion": 2238603
+    },
+    {
+        "iso": "MEX-TML",
+        "nombre": "Tamaulipas",
+        "poblacion": 3268554
+    },
+    {
+        "iso": "MEX-TLX",
+        "nombre": "Tlaxcala",
+        "poblacion": 1169936
+    },
+    {
+        "iso": "MEX-VLL",
+        "nombre": "Veracruz",
+        "poblacion": 7643194
+    },
+    {
+        "iso": "MEX-YCT",
+        "nombre": "Yucatan",
+        "poblacion": 1955577
+    },
+    {
+        "iso": "MEX-ZCT",
+        "nombre": "Zacatecas",
+        "poblacion": 1490668
+    }
+]

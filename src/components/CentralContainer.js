@@ -28,6 +28,9 @@ export default class CentralContainer extends Component {
                         </Col>
                     </Row>
                     <Row>
+                        <DailySumTable />
+                    </Row>
+                    <Row>
                         <MinimalGraph />
                     </Row>
                     <Row>

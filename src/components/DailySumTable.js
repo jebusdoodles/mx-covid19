@@ -5,7 +5,6 @@ const DailySumTable = () => {
     const makeTable = () =>{
         let datosDiarios = alldata.slice(alldata.length - 32, alldata.length);
         let datosPasados = alldata.slice(alldata.length - 64, alldata.length - 32);
-
         let otherData = [];
         let dataListado = () => {
             let datosTabla = [];  
