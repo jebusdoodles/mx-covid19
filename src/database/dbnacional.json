@@ -718,5 +718,14 @@
         "confirmados": 87512,
         "sospechosos": 38994,
         "decesos": 9779
+    },
+    {
+        "fecha": "1591038000",
+        "fechaformat": "31 - Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 90664,
+        "sospechosos": 36803,
+        "decesos": 9930
     }
 ]
