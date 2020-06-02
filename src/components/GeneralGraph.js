@@ -31,6 +31,7 @@ const GeneralGraph = () =>{
                 <ReferenceLine x="30-Marzo" stroke="#e19254" label="emergencia sanitaria" strokeDasharray="3 3" />
                 <ReferenceLine x="24-Marzo" stroke="#e19254" label="fase 2" strokeDasharray="3 3" />
                 <ReferenceLine x="21-Abril" stroke="#e19254" label="fase 3" strokeDasharray="3 3" />
+                <ReferenceLine x="1-Junio" stroke="#e19254" label="Nueva normalidad" strokeDasharray="3 3" />
             </LineChart>
         </div>
     );
