@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/mx-covid19/static/css/main.907759a1.chunk.css",
-    "main.js": "/mx-covid19/static/js/main.a0957c33.chunk.js",
-    "main.js.map": "/mx-covid19/static/js/main.a0957c33.chunk.js.map",
+    "main.css": "/mx-covid19/static/css/main.a67084e3.chunk.css",
+    "main.js": "/mx-covid19/static/js/main.68b9a940.chunk.js",
+    "main.js.map": "/mx-covid19/static/js/main.68b9a940.chunk.js.map",
     "runtime-main.js": "/mx-covid19/static/js/runtime-main.426aba3c.js",
     "runtime-main.js.map": "/mx-covid19/static/js/runtime-main.426aba3c.js.map",
     "static/css/2.47e06e2e.chunk.css": "/mx-covid19/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d694d5dc.chunk.js": "/mx-covid19/static/js/2.d694d5dc.chunk.js",
-    "static/js/2.d694d5dc.chunk.js.map": "/mx-covid19/static/js/2.d694d5dc.chunk.js.map",
+    "static/js/2.344b3b6e.chunk.js": "/mx-covid19/static/js/2.344b3b6e.chunk.js",
+    "static/js/2.344b3b6e.chunk.js.map": "/mx-covid19/static/js/2.344b3b6e.chunk.js.map",
     "index.html": "/mx-covid19/index.html",
-    "precache-manifest.9eb7b32015065695bcf311a90c54fb83.js": "/mx-covid19/precache-manifest.9eb7b32015065695bcf311a90c54fb83.js",
+    "precache-manifest.0269fcb0a9e7f073f7f748ab5b2a2959.js": "/mx-covid19/precache-manifest.0269fcb0a9e7f073f7f748ab5b2a2959.js",
     "service-worker.js": "/mx-covid19/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/mx-covid19/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.907759a1.chunk.css.map": "/mx-covid19/static/css/main.907759a1.chunk.css.map",
-    "static/js/2.d694d5dc.chunk.js.LICENSE.txt": "/mx-covid19/static/js/2.d694d5dc.chunk.js.LICENSE.txt",
+    "static/css/main.a67084e3.chunk.css.map": "/mx-covid19/static/css/main.a67084e3.chunk.css.map",
+    "static/js/2.344b3b6e.chunk.js.LICENSE.txt": "/mx-covid19/static/js/2.344b3b6e.chunk.js.LICENSE.txt",
     "static/media/image.png": "/mx-covid19/static/media/image.ee9432ce.png",
     "static/media/mexican.topojson": "/mx-covid19/static/media/mexican.e5173ac9.topojson"
   },
   "entrypoints": [
     "static/js/runtime-main.426aba3c.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d694d5dc.chunk.js",
-    "static/css/main.907759a1.chunk.css",
-    "static/js/main.a0957c33.chunk.js"
+    "static/js/2.344b3b6e.chunk.js",
+    "static/css/main.a67084e3.chunk.css",
+    "static/js/main.68b9a940.chunk.js"
   ]
 }
