@@ -1,9 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Card } from 'react-bootstrap';
-import CountUp from 'react-countup'; 
-
-const CardSelector = ({tipo, titulo, cifra, subcifra}) => {
+import CountUp from 'react-countup';
+import { AreaChart, Area } from 'recharts'; 
+ 
+const CardSelector = ({tipo, titulo, cifra, subcifra, data, color}) => {
     return (
         <>
             <Card className={tipo}>
@@ -13,6 +14,10 @@ const CardSelector = ({tipo, titulo, cifra, subcifra}) => {
                         <CountUp end={cifra} /> <br/>
                         <span className="card-subnumero">(+<CountUp delay={1.5} end={subcifra} />)</span>
                     </Card.Text>
+                    
+                    <AreaChart width={200} height={100} data={data}>
+                        <Area type="monotone" dataKey="cifra" stroke={color} fillOpacity={.2} fill={color} />
+                    </AreaChart>
                 </Card.Body>
             </Card>
         </>
