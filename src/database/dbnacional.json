@@ -790,5 +790,14 @@
         "confirmados": 117103,
         "sospechosos": 45317,
         "decesos": 13699
+    },
+    {
+        "fecha": "1591642800",
+        "fechaformat": "8-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 120102,
+        "sospechosos": 46398,
+        "decesos": 14053
     }
 ]
