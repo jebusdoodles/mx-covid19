@@ -799,5 +799,14 @@
         "confirmados": 120102,
         "sospechosos": 46398,
         "decesos": 14053
+    },
+    {
+        "fecha": "1591729200",
+        "fechaformat": "9-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 124301,
+        "sospechosos": 50677,
+        "decesos": 14649
     }
 ]
