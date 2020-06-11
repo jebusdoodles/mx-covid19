@@ -808,5 +808,14 @@
         "confirmados": 124301,
         "sospechosos": 50677,
         "decesos": 14649
+    },
+    {
+        "fecha": "1591815600",
+        "fechaformat": "10-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 129184,
+        "sospechosos": 53608,
+        "decesos": 15357
     }
 ]
