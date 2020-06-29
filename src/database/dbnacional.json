@@ -970,5 +970,14 @@
         "confirmados": 212802,
         "sospechosos": 67099,
         "decesos": 26381
+    },
+    {
+        "fecha": "1593370800",
+        "fechaformat": "28-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 216852,
+        "sospechosos": 64143,
+        "decesos": 26648
     }
 ]
