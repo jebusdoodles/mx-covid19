@@ -1015,5 +1015,23 @@
         "confirmados": 238511,
         "sospechosos": 76423,
         "decesos": 29189
+    },
+    {
+        "fecha": "1593802800",
+        "fechaformat": "3-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 245251,
+        "sospechosos": 77750,
+        "decesos": 29843
+    },
+    {
+        "fecha": "1593889200",
+        "fechaformat": "4-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 252165,
+        "sospechosos": 74387,
+        "decesos": 30366
     }
 ]
