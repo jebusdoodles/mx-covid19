@@ -1033,5 +1033,14 @@
         "confirmados": 252165,
         "sospechosos": 74387,
         "decesos": 30366
+    },
+    {
+        "fecha": "1593975600",
+        "fechaformat": "5-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 256848,
+        "sospechosos": 71305,
+        "decesos": 30639
     }
 ]
