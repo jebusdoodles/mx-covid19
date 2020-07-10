@@ -1069,5 +1069,14 @@
         "confirmados": 275003,
         "sospechosos": 80893,
         "decesos": 32796
+    },
+    {
+        "fecha": "1594321200",
+        "fechaformat": "9-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 282283,
+        "sospechosos": 80988,
+        "decesos": 33526
     }
 ]
