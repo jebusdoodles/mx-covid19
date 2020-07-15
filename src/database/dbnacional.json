@@ -1114,5 +1114,14 @@
         "confirmados": 304435,
         "sospechosos": 76824,
         "decesos": 35491
+    },
+    {
+        "fecha": "1594753200",
+        "fechaformat": "14-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 311486,
+        "sospechosos": 80721,
+        "decesos": 36327
     }
 ]
