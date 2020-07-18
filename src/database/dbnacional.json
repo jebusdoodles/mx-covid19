@@ -1141,5 +1141,14 @@
         "confirmados": 324041,
         "sospechosos": 82567,
         "decesos": 37574
+    },
+    {
+        "fecha": "1595012400",
+        "fechaformat": "17-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 331298,
+        "sospechosos": 85877,
+        "decesos": 38310
     }
 ]
