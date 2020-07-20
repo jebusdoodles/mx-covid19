@@ -1159,5 +1159,14 @@
         "confirmados": 338913,
         "sospechosos": 87104,
         "decesos": 38888
+    },
+    {
+        "fecha": "1595185200",
+        "fechaformat": "19-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 334224,
+        "sospechosos": 83542,
+        "decesos": 39184
     }
 ]
