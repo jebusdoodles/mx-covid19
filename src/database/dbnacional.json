@@ -1168,5 +1168,14 @@
         "confirmados": 334224,
         "sospechosos": 83542,
         "decesos": 39184
+    },
+    {
+        "fecha": "1595271600",
+        "fechaformat": "20-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 349396,
+        "sospechosos": 79112,
+        "decesos": 39485
     }
 ]
