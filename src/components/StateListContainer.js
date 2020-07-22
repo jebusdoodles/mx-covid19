@@ -20,7 +20,7 @@ const StateListContainer = () =>{
                     decesos: datosDiarios[i].decesos,
                     diferenciaDecesos: datosDiarios[i].decesos - datosPasados[i].decesos,
                     rateDeath: datosDiarios[i].decesos * 100 / datosPasados[i].confirmados,
-                    rateConfirmed: datosDiarios[i].confirmados * 100 / datosPoblacion[i].poblacion
+                    rateConfirmed: ( datosDiarios[i].confirmados / datosPoblacion[i].poblacion ) * 100000
                 }); 
             }
             return(datosListado); 
@@ -46,7 +46,7 @@ const StateListContainer = () =>{
                     <td className='tabla-conf'>{c.confirmados}<br></br>{c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
                     <td className='tabla-conf'>{c.decesos}<br></br>{c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
                     <td>{residuoDeathRate(c.rateDeath)} %</td>
-                    <td>{residuoDeathRate(c.rateConfirmed)} %</td>
+                    <td>{residuoDeathRate(c.rateConfirmed)}</td>
                 </tr>             
             )
         )
@@ -60,7 +60,7 @@ const StateListContainer = () =>{
                         <th className='tabla-header'>Confirmados</th>
                         <th className='tabla-header'>Defunciones</th>
                         <th className='tabla-header'>Tasa de letalidad</th>
-                        <th className='tabla-header'>Confirmados per capita</th>
+                        <th className='tabla-header'>Confirmados por 100mil hab</th>
                     </tr>
                 </thead>
                 <tbody>
