@@ -1258,5 +1258,14 @@
         "confirmados": 408449,
         "sospechosos": 89978,
         "decesos": 45361
+    },
+    {
+        "fecha": "1596135600",
+        "fechaformat": "31-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 416179,
+        "sospechosos": 90582,
+        "decesos": 46000
     }
 ]
