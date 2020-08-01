@@ -1261,11 +1261,20 @@
     },
     {
         "fecha": "1596135600",
-        "fechaformat": "31-Julio",
+        "fechaformat": "30-Julio",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 416179,
         "sospechosos": 90582,
         "decesos": 46000
+    },
+    {
+        "fecha": "1596222000",
+        "fechaformat": "31-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 424637,
+        "sospechosos": 90022,
+        "decesos": 46688
     }
 ]
