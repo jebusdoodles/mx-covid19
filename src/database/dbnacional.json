@@ -1276,5 +1276,14 @@
         "confirmados": 424637,
         "sospechosos": 90022,
         "decesos": 46688
+    },
+    {
+        "fecha": "1596308400",
+        "fechaformat": "1-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 434193,
+        "sospechosos": 87771,
+        "decesos": 47472
     }
 ]
