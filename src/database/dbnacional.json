@@ -1303,5 +1303,14 @@
         "confirmados": 443813,
         "sospechosos": 79030,
         "decesos": 48012
+    },
+    {
+        "fecha": "1596567600",
+        "fechaformat": "4-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 449961,
+        "sospechosos": 82460,
+        "decesos": 48869
     }
 ]
