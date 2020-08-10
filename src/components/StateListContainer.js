@@ -46,7 +46,7 @@ const StateListContainer = () =>{
                     <td className='tabla-conf'>{c.confirmados}<br></br>{c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
                     <td className='tabla-conf'>{c.decesos}<br></br>{c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
                     <td>{residuoDeathRate(c.rateDeath)} %</td>
-                    <td>{residuoDeathRate(c.rateConfirmed)}</td>
+                    <td>{Math.floor(c.rateConfirmed)}</td>
                 </tr>             
             )
         )
