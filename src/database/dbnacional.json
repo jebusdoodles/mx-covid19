@@ -1492,5 +1492,14 @@
         "confirmados": 563705,
         "sospechosos": 77198,
         "decesos": 60800
+    },
+    {
+        "fecha": "1598382000",
+        "fechaformat": "25-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 568621,
+        "sospechosos": 80878,
+        "decesos": 61450
     }
 ]
