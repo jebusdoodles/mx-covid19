@@ -1049,7 +1049,7 @@
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 261750,
-        "sospechosos": 0,
+        "sospechosos": 71305,
         "decesos": 31119
     },
     {
@@ -1537,5 +1537,14 @@
         "confirmados": 591712,
         "sospechosos": 84310,
         "decesos": 63819
+    },
+    {
+        "fecha": "1598814000",
+        "fechaformat": "30-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 595841,
+        "sospechosos": 81151,
+        "decesos": 64158
     }
 ]
