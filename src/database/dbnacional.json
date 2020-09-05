@@ -1575,12 +1575,12 @@
         "decesos": 65816
     },
     {
-        "fecha": "1599159600",
-        "fechaformat": "3-Septiembre",
+        "fecha": "1599246000",
+        "fechaformat": "4-Septiembre",
         "iso": "MEX",
         "nombre": "México",
-        "confirmados": 616894,
-        "sospechosos": 83820,
-        "decesos": 66329
+        "confirmados": 623090,
+        "sospechosos": 85792,
+        "decesos": 66851
     }
 ]
