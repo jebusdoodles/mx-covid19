@@ -1636,5 +1636,14 @@
         "confirmados": 647507,
         "sospechosos": 83537,
         "decesos": 69095
+    },
+    {
+        "fecha": "1599764400",
+        "fechaformat": "10-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 652364,
+        "sospechosos": 86270,
+        "decesos": 69649
     }
 ]
