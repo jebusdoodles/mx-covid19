@@ -1683,12 +1683,12 @@
         "decesos": 71049
     },
     {
-        "fecha": "1600110000",
+        "fecha": "1600196400",
         "fechaformat": "15-Septiembre",
         "iso": "MEX",
         "nombre": "México",
-        "confirmados": 671716,
-        "sospechosos": 78550,
-        "decesos": 71049
+        "confirmados": 676487,
+        "sospechosos": 80407,
+        "decesos": 71678
     }
 ]
