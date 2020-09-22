@@ -1735,5 +1735,14 @@
         "confirmados": 697663,
         "sospechosos": 79155,
         "decesos": 73493
+    },
+    {
+        "fecha": "1600714800",
+        "fechaformat": "21-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 700580,
+        "sospechosos": 75754,
+        "decesos": 73697
     }
 ]
