@@ -1746,12 +1746,21 @@
         "decesos": 73697
     },
     {
-        "fecha": "1600887600",
+        "fecha": "1600801200",
         "fechaformat": "22-Septiembre",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 705263,
         "sospechosos": 78907,
         "decesos": 74348
+    },
+    {
+        "fecha": "1600887600",
+        "fechaformat": "23-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 710049,
+        "sospechosos": 82549,
+        "decesos": 74949
     }
 ]
