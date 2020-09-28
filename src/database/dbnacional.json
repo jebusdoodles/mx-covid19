@@ -1789,5 +1789,14 @@
         "confirmados": 726431,
         "sospechosos": 86762,
         "decesos": 76243
+    },
+    {
+        "fecha": "1601233200",
+        "fechaformat": "27-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 730317,
+        "sospechosos": 82914,
+        "decesos": 76430
     }
 ]
