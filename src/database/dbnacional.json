@@ -1805,7 +1805,16 @@
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 733717,
-        "sospechosos": 310042,
+        "sospechosos": 82914,
         "decesos": 76603
+    },
+    {
+        "fecha": "1601406000",
+        "fechaformat": "29-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 738163,
+        "sospechosos": 82914,
+        "decesos": 77163
     }
 ]
