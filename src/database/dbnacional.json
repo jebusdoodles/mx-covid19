@@ -1834,5 +1834,14 @@
         "confirmados": 748315,
         "sospechosos": 323085,
         "decesos": 78078
+    },
+    {
+        "fecha": "1601665200",
+        "fechaformat": "2-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 753090,
+        "sospechosos": 324483,
+        "decesos": 78492
     }
 ]
