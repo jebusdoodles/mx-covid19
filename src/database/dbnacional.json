@@ -1832,7 +1832,7 @@
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 748315,
-        "sospechosos": 3214,
+        "sospechosos": 82914,
         "decesos": 78078
     },
     {
@@ -1841,7 +1841,7 @@
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 753090,
-        "sospechosos": 1398,
+        "sospechosos": 82914,
         "decesos": 78492
     },
     {
@@ -1850,7 +1850,16 @@
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 757953,
-        "sospechosos": 1569,
+        "sospechosos": 326052,
         "decesos": 78880
+    },
+    {
+        "fecha": "1601838000",
+        "fechaformat": "4-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 761665,
+        "sospechosos": 321885,
+        "decesos": 79088
     }
 ]
