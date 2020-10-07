@@ -1867,8 +1867,18 @@
         "fechaformat": "5-Octubre",
         "iso": "MEX",
         "nombre": "México",
-        "confirmados": 789780,
+        "confirmados": 765082,
         "sospechosos": 292007,
         "decesos": 81877
+    },
+    {
+        "fecha": "1602010800",
+        "fechaformat": "6-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 769558,
+        "sospechosos": 293331,
+        "decesos": 82348
     }
+    
 ]
