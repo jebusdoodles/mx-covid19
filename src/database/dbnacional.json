@@ -1879,6 +1879,14 @@
         "confirmados": 769558,
         "sospechosos": 293331,
         "decesos": 82348
+    },
+    {
+        "fecha": "1602097200",
+        "fechaformat": "7-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 774020,
+        "sospechosos": 297231,
+        "decesos": 82726
     }
-    
 ]
