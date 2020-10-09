@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Alert } from 'react-bootstrap';
 import StateMapContainer from './StateMapContainer';
 import StateListContainer from './StateListContainer'; 
 import StateDataContainer from './StateDataContainer';
@@ -18,6 +18,11 @@ export default class CentralContainer extends Component {
                     </Row>
                     <Row>
                         <GeneralGraph />
+                    </Row>
+                    <Row>
+                    <Alert variant='warning'>
+                        Debido a un reajuste por parte de la <Alert.Link href="https://www.gob.mx/salud/documentos/datos-abiertos-152127">Secretaria de Salud</Alert.Link> el día 5-10-2020 los datos pueden variar.
+                    </Alert>
                     </Row>
                     <Row>
                         <Col xs={10} md={7}>
