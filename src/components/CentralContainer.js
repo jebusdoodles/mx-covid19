@@ -19,7 +19,7 @@ export default class CentralContainer extends Component {
                     <Row>
                         <GeneralGraph />
                     </Row>
-                    <Row>
+                    <Row className="justify-content-center">
                     <Alert variant='warning'>
                         Debido a un reajuste por parte de la <Alert.Link href="https://www.gob.mx/salud/documentos/datos-abiertos-152127">Secretaria de Salud</Alert.Link> el día 5-10-2020 los datos pueden variar.
                     </Alert>
