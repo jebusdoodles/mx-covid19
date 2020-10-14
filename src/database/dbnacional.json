@@ -1933,5 +1933,14 @@
         "confirmados": 796399,
         "sospechosos": 297064,
         "decesos": 83945
+    },
+    {
+        "fecha": "1602615600",
+        "fechaformat": "13-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 800474,
+        "sospechosos": 302945,
+        "decesos": 84420
     }
 ]
