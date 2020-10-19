@@ -1978,5 +1978,14 @@
         "confirmados": 822511,
         "sospechosos": 316228,
         "decesos": 86059
+    },
+    {
+        "fecha": "1603047600",
+        "fechaformat": "18-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 826576,
+        "sospechosos": 312224,
+        "decesos": 86167
     }
 ]
