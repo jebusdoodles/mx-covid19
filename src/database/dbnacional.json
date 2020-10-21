@@ -1996,5 +1996,14 @@
         "confirmados": 830249,
         "sospechosos": 308255,
         "decesos": 86338
+    },
+    {
+        "fecha": "1603220400",
+        "fechaformat": "20-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 835763,
+        "sospechosos": 314126,
+        "decesos": 86893
     }
 ]
