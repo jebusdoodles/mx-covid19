@@ -2005,5 +2005,14 @@
         "confirmados": 835763,
         "sospechosos": 314126,
         "decesos": 86893
+    },
+    {
+        "fecha": "1603306800",
+        "fechaformat": "21-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 842208,
+        "sospechosos": 320112,
+        "decesos": 87415
     }
 ]
