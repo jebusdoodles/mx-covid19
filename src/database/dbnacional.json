@@ -2032,5 +2032,14 @@
         "confirmados": 854636,
         "sospechosos": 330956,
         "decesos": 88312
+    },
+    {
+        "fecha": "1603566000",
+        "fechaformat": "24-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 860440,
+        "sospechosos": 335143,
+        "decesos": 88743
     }
 ]
