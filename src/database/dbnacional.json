@@ -2077,5 +2077,14 @@
         "confirmados": 879963,
         "sospechosos": 343620,
         "decesos": 90309
+    },
+    {
+        "fecha": "1603998000",
+        "fechaformat": "29-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 885743,
+        "sospechosos": 350727,
+        "decesos": 90773
     }
 ]
