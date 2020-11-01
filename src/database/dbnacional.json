@@ -2095,5 +2095,14 @@
         "confirmados": 891550,
         "sospechosos": 356536,
         "decesos": 91289
+    },
+    {
+        "fecha": "1604170800",
+        "fechaformat": "31-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 897484,
+        "sospechosos": 358175,
+        "decesos": 91753
     }
 ]
