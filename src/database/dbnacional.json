@@ -2158,5 +2158,14 @@
         "confirmados": 926873,
         "sospechosos": 369371,
         "decesos": 94323
+    },
+    {
+        "fecha": "1604775600",
+        "fechaformat": "7-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 933544,
+        "sospechosos": 371465,
+        "decesos": 94808
     }
 ]
