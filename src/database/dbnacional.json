@@ -2239,5 +2239,14 @@
         "confirmados": 976461,
         "sospechosos": 376736,
         "decesos": 98542
+    },
+    {
+        "fecha": "1605553200",
+        "fechaformat": "16-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 979174,
+        "sospechosos": 374326,
+        "decesos": 98861
     }
 ]
