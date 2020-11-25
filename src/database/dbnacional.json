@@ -2308,8 +2308,17 @@
         "fechaformat": "23-Noviembre",
         "iso": "MEX",
         "nombre": "México",
-        "confirmados": 1049358,
+        "confirmados": 1017780,
         "sospechosos": 392698,
         "decesos": 101926
+    },
+    {
+        "fecha": "1606244400",
+        "fechaformat": "24-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1028122,
+        "sospechosos": 399130,
+        "decesos": 102739
     }
 ]
