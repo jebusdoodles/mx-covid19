@@ -1,0 +1,497 @@
+[
+    {
+        "fecha": "1601924400",
+        "fechaformat": "5-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 789780,
+        "sospechosos": 292007,
+        "decesos": 81877
+    },
+    {
+        "fecha": "1602010800",
+        "fechaformat": "6-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 794608,
+        "sospechosos": 293331,
+        "decesos": 82348
+    },
+    {
+        "fecha": "1602097200",
+        "fechaformat": "7-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 799188,
+        "sospechosos": 297231,
+        "decesos": 82726
+    },
+    {
+        "fecha": "1602183600",
+        "fechaformat": "8-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 804488,
+        "sospechosos": 299866,
+        "decesos": 83096
+    },
+    {
+        "fecha": "1602270000",
+        "fechaformat": "9-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 809751,
+        "sospechosos": 302645,
+        "decesos": 83507
+    },
+    {
+        "fecha": "1602356400",
+        "fechaformat": "10-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 814328,
+        "sospechosos": 305487,
+        "decesos": 83642
+    },
+    {
+        "fecha": "1602442800",
+        "fechaformat": "11-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 817503,
+        "sospechosos": 301579,
+        "decesos": 83781
+    },
+    {
+        "fecha": "1602529200",
+        "fechaformat": "12-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 821045,
+        "sospechosos": 297064,
+        "decesos": 83945
+    },
+    {
+        "fecha": "1602615600",
+        "fechaformat": "13-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 825340,
+        "sospechosos": 302945,
+        "decesos": 84420
+    },
+    {
+        "fecha": "1602702000",
+        "fechaformat": "14-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 829396,
+        "sospechosos": 310814,
+        "decesos": 84898
+    },
+    {
+        "fecha": "1602788400",
+        "fechaformat": "15-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 834910,
+        "sospechosos": 314836,
+        "decesos": 85285
+    },
+    {
+        "fecha": "1602874800",
+        "fechaformat": "16-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 841661,
+        "sospechosos": 313678,
+        "decesos": 85704
+    },
+    {
+        "fecha": "1602961200",
+        "fechaformat": "17-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 847108,
+        "sospechosos": 316228,
+        "decesos": 86059
+    },
+    {
+        "fecha": "1603047600",
+        "fechaformat": "18-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 851227,
+        "sospechosos": 312224,
+        "decesos": 86167
+    },
+    {
+        "fecha": "1603134000",
+        "fechaformat": "19-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 854926,
+        "sospechosos": 308255,
+        "decesos": 86338
+    },
+    {
+        "fecha": "1603220400",
+        "fechaformat": "20-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 860714,
+        "sospechosos": 314126,
+        "decesos": 86893
+    },
+    {
+        "fecha": "1603306800",
+        "fechaformat": "21-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 867559,
+        "sospechosos": 320112,
+        "decesos": 87415
+    },
+    {
+        "fecha": "1603393200",
+        "fechaformat": "22-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 874171,
+        "sospechosos": 325595,
+        "decesos": 87894
+    },
+    {
+        "fecha": "1603479600",
+        "fechaformat": "23-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 880775,
+        "sospechosos": 330956,
+        "decesos": 88312
+    },
+    {
+        "fecha": "1603566000",
+        "fechaformat": "24-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 886800,
+        "sospechosos": 335143,
+        "decesos": 88743
+    },
+    {
+        "fecha": "1603652400",
+        "fechaformat": "25-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 891160,
+        "sospechosos": 331758,
+        "decesos": 88924
+    },
+    {
+        "fecha": "1603738800",
+        "fechaformat": "26-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 895326,
+        "sospechosos": 328231,
+        "decesos": 89171
+    },
+    {
+        "fecha": "1603825200",
+        "fechaformat": "27-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 901268,
+        "sospechosos": 335517,
+        "decesos": 89814
+    },
+    {
+        "fecha": "1603911600",
+        "fechaformat": "28-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 906863,
+        "sospechosos": 343620,
+        "decesos": 90309
+    },
+    {
+        "fecha": "1603998000",
+        "fechaformat": "29-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 912811,
+        "sospechosos": 350727,
+        "decesos": 90773
+    },
+    {
+        "fecha": "1604084400",
+        "fechaformat": "30-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 918811,
+        "sospechosos": 356536,
+        "decesos": 91289
+    },
+    {
+        "fecha": "1604170800",
+        "fechaformat": "31-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 924962,
+        "sospechosos": 358175,
+        "decesos": 91753
+    },
+    {
+        "fecha": "1604257200",
+        "fechaformat": "1-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 929392,
+        "sospechosos": 354634,
+        "decesos": 91895
+    },
+    {
+        "fecha": "1604343600",
+        "fechaformat": "2-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 933155,
+        "sospechosos": 349568,
+        "decesos": 92100
+    },
+    {
+        "fecha": "1604430000",
+        "fechaformat": "3-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 938405,
+        "sospechosos": 347696,
+        "decesos": 92593
+    },
+    {
+        "fecha": "1604516400",
+        "fechaformat": "4-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 943630,
+        "sospechosos": 356291,
+        "decesos": 93228
+    },
+    {
+        "fecha": "1604602800",
+        "fechaformat": "5-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 949197,
+        "sospechosos": 363735,
+        "decesos": 93772
+    },
+    {
+        "fecha": "1604689200",
+        "fechaformat": "6-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 955128,
+        "sospechosos": 369371,
+        "decesos": 94323
+    },
+    {
+        "fecha": "1604775600",
+        "fechaformat": "7-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 961938,
+        "sospechosos": 371465,
+        "decesos": 94808
+    },
+    {
+        "fecha": "1604862000",
+        "fechaformat": "8-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 967825,
+        "sospechosos": 364340,
+        "decesos": 95027
+    },
+    {
+        "fecha": "1604948400",
+        "fechaformat": "9-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 972785,
+        "sospechosos": 358660,
+        "decesos": 95225
+    },
+    {
+        "fecha": "1605034800",
+        "fechaformat": "10-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 972785,
+        "sospechosos": 366993,
+        "decesos": 95842
+    },
+    {
+        "fecha": "1605121200",
+        "fechaformat": "11-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 986177,
+        "sospechosos": 372318,
+        "decesos": 96430
+    },
+    {
+        "fecha": "1605207600",
+        "fechaformat": "12-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 991835,
+        "sospechosos": 374339,
+        "decesos": 97056
+    },
+    {
+        "fecha": "1605294000",
+        "fechaformat": "13-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 997393,
+        "sospechosos": 377223,
+        "decesos": 97624
+    },
+    {
+        "fecha": "1605380400",
+        "fechaformat": "14-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1003253,
+        "sospechosos": 378653,
+        "decesos": 98259
+    },
+    {
+        "fecha": "1605466800",
+        "fechaformat": "15-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1006522,
+        "sospechosos": 376736,
+        "decesos": 98542
+    },
+    {
+        "fecha": "1605553200",
+        "fechaformat": "16-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1009396,
+        "sospechosos": 374326,
+        "decesos": 98861
+    },
+    {
+        "fecha": "1605639600",
+        "fechaformat": "17-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1011153,
+        "sospechosos": 373567,
+        "decesos": 99026
+    },
+    {
+        "fecha": "1605726000",
+        "fechaformat": "18-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1015071,
+        "sospechosos": 378355,
+        "decesos": 99528
+    },
+    {
+        "fecha": "1605812400",
+        "fechaformat": "19-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1019543,
+        "sospechosos": 384718,
+        "decesos": 100104
+    },
+    {
+        "fecha": "1605898800",
+        "fechaformat": "20-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1025969,
+        "sospechosos": 387654,
+        "decesos": 100823
+    },
+    {
+        "fecha": "1605985200",
+        "fechaformat": "21-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1032688,
+        "sospechosos": 392117,
+        "decesos": 101373
+    },
+    {
+        "fecha": "1606071600",
+        "fechaformat": "22-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1041875,
+        "sospechosos": 391897,
+        "decesos": 101676
+    },
+    {
+        "fecha": "1606158000",
+        "fechaformat": "23-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1049358,
+        "sospechosos": 392698,
+        "decesos": 101926
+    },
+    {
+        "fecha": "1606244400",
+        "fechaformat": "24-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1060152,
+        "sospechosos": 399130,
+        "decesos": 102739
+    },
+    {
+        "fecha": "1606330800",
+        "fechaformat": "25-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1070487,
+        "sospechosos": 407747,
+        "decesos": 103597
+    },
+    {
+        "fecha": "1606417200",
+        "fechaformat": "26-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1078594,
+        "sospechosos": 416311,
+        "decesos": 104242
+    },
+    {
+        "fecha": "1606503600",
+        "fechaformat": "27-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1090675,
+        "sospechosos": 402837,
+        "decesos": 104873
+    },
+    {
+        "fecha": "1606590000",
+        "fechaformat": "28-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1100684,
+        "sospechosos": 407631,
+        "decesos": 105459
+    }
+]
