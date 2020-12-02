@@ -2371,8 +2371,17 @@
         "fechaformat": "30-Noviembre",
         "iso": "MEX",
         "nombre": "México",
-        "confirmados": 113543,
+        "confirmados": 1113543,
         "sospechosos": 396338,
         "decesos": 105940
+    },
+    {
+        "fecha": "1606849200",
+        "fechaformat": "1-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1122362,
+        "sospechosos": 400802,
+        "decesos": 106765
     }
 ]
