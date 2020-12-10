@@ -2446,5 +2446,14 @@
         "confirmados": 1193255,
         "sospechosos": 388192,
         "decesos": 110874
+    },
+    {
+        "fecha": "1607540400",
+        "fechaformat": "9-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1205229,
+        "sospechosos": 391101,
+        "decesos": 111655
     }
 ]
