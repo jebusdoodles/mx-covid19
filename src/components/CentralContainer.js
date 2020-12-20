@@ -7,6 +7,7 @@ import GeneralGraph from './GeneralGraph';
 import MinimalGraph from './MinimalGraph';
 import DailySumTable from './DailySumTable';
 import MortalityGraph from './MortalityGraph';
+import HeatMap from './HeatMap';
 
 export default class CentralContainer extends Component {
     render() {
