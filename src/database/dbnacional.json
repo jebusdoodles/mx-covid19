@@ -2545,5 +2545,14 @@
         "confirmados": 1313675,
         "sospechosos": 405524,
         "decesos": 117876
+    },
+    {
+        "fecha": "1608490800",
+        "fechaformat": "20-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1320545,
+        "sospechosos": 401293,
+        "decesos": 118202
     }
 ]
