@@ -2573,4 +2573,13 @@
         "sospechosos": 401836,
         "decesos": 119495
     }
+    {
+        "fecha": "1608750000",
+        "fechaformat": "23-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1350079,
+        "sospechosos": 406321,
+        "decesos": 120311
+    }
 ]
