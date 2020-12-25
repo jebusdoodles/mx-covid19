@@ -2572,7 +2572,7 @@
         "confirmados": 1338426,
         "sospechosos": 401836,
         "decesos": 119495
-    }
+    },
     {
         "fecha": "1608750000",
         "fechaformat": "23-Diciembre",
@@ -2581,5 +2581,14 @@
         "confirmados": 1350079,
         "sospechosos": 406321,
         "decesos": 120311
+    },
+    {
+        "fecha": "1608836400",
+        "fechaformat": "24-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1362564,
+        "sospechosos": 407475,
+        "decesos": 121172
     }
 ]
