@@ -2689,5 +2689,14 @@
         "confirmados": 1455219,
         "sospechosos": 396680,
         "decesos": 127757
+    },
+    {
+        "fecha": "1609873200",
+        "fechaformat": "5-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1466490,
+        "sospechosos": 403467,
+        "decesos": 128822
     }
 ]
