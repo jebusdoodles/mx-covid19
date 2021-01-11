@@ -2734,5 +2734,14 @@
         "confirmados": 1524036,
         "sospechosos": 415958,
         "decesos": 133204
+    },
+    {
+        "fecha": "1610305200",
+        "fechaformat": "10-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1534039,
+        "sospechosos": 410574,
+        "decesos": 133706
     }
 ]
