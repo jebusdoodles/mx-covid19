@@ -2790,12 +2790,21 @@
         "decesos": 139022
     },
     {
-        "fecha": "1610910000",
+        "fecha": "1610823600",
         "fechaformat": "16-Enero",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 1630258,
         "sospechosos": 419200,
         "decesos": 140241
+    },
+    {
+        "fecha": "1610910000",
+        "fechaformat": "17-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1641428,
+        "sospechosos": 416205,
+        "decesos": 140704
     }
 ]
