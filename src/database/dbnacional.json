@@ -2833,5 +2833,14 @@
         "confirmados": 1688944,
         "sospechosos": 425900,
         "decesos": 144371
+    },
+    {
+        "fecha": "1611255600",
+        "fechaformat": "21-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1711283,
+        "sospechosos": 427119,
+        "decesos": 146174
     }
 ]
