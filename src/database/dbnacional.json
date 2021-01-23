@@ -2842,5 +2842,14 @@
         "confirmados": 1711283,
         "sospechosos": 427119,
         "decesos": 146174
+    },
+    {
+        "fecha": "1611342000",
+        "fechaformat": "22-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 1732290,
+        "sospechosos": 428356,
+        "decesos": 147614
     }
 ]
