@@ -2,161 +2,161 @@
     {
         "iso": "MEX-AGS",
         "nombre": "Aguascalientes",
-        "poblacion": 1184996
+        "poblacion": 1425607
     },
     {
         "iso": "MEX-BCN",
         "nombre": "Baja California Norte",
-        "poblacion": 3155070
+        "poblacion": 3769020
     },
     {
         "iso": "MEX-BCS",
         "nombre": "Baja California Sur",
-        "poblacion": 637026
+        "poblacion": 798447
     },
     {
         "iso": "MEX-CMP",
         "nombre": "Campeche",
-        "poblacion": 822441
+        "poblacion": 928363
     },
     {
         "iso": "MEX-CHP",
         "nombre": "Chiapas",
-        "poblacion": 4796580
+        "poblacion": 5543828
     },
     {
         "iso": "MEX-CHH",
         "nombre": "Chihuahua",
-        "poblacion": 3406465
+        "poblacion": 3741869
     },
     {
         "iso": "MEX-DTD",
         "nombre": "Ciudad de México",
-        "poblacion": 8851080
+        "poblacion": 9209944
     },
     {
         "iso": "MEX-CDZ",
         "nombre": "Coahuila",
-        "poblacion": 2748391
+        "poblacion": 3146771
     },
     {
         "iso": "MEX-COL",
         "nombre": "Colima",
-        "poblacion": 650555
+        "poblacion": 731391
     },
     {
         "iso": "MEX-DRN",
         "nombre": "Durango",
-        "poblacion": 1632934
+        "poblacion": 1832650
     },
     {
         "iso": "MEX-GNJ",
         "nombre": "Guanajuato",
-        "poblacion": 5486372
+        "poblacion": 6166934
     },
     {
         "iso": "MEX-GRR",
         "nombre": "Guerrero",
-        "poblacion": 3388768
+        "poblacion": 3540685
     },
     {
         "iso": "MEX-HDL",
         "nombre": "Hidalgo",
-        "poblacion": 2665018
+        "poblacion": 3082841
     },
     {
         "iso": "MEX-JLS",
         "nombre": "Jalisco",
-        "poblacion": 7350682
+        "poblacion": 8348151
     },
     {
         "iso": "MEX-MEX",
         "nombre": "Estado de México",
-        "poblacion": 15175862
+        "poblacion": 16992418
     },
     {
         "iso": "MEX-MDO",
         "nombre": "Michoacán",
-        "poblacion": 4351037
+        "poblacion": 4748846
     },
     {
         "iso": "MEX-MRL",
         "nombre": "Morelos",
-        "poblacion": 1777227
+        "poblacion": 1971520
     },
     {
         "iso": "MEX-NYR",
         "nombre": "Nayarit",
-        "poblacion": 1084979
+        "poblacion": 1235456
     },
     {
         "iso": "MEX-NLE",
         "nombre": "Nuevo Leon",
-        "poblacion": 4653458
+        "poblacion": 5784442
     },
     {
         "iso": "MEX-OAX",
         "nombre": "Oaxaca",
-        "poblacion": 3801962
+        "poblacion": 4132148
     },
     {
         "iso": "MEX-PUE",
         "nombre": "Puebla",
-        "poblacion": 5779829
+        "poblacion": 6583278
     },
     {
         "iso": "MEX-QDA",
         "nombre": "Queretaro",
-        "poblacion": 1827937
+        "poblacion": 2368467
     },
     {
         "iso": "MEX-QRO",
         "nombre": "Quintana Roo",
-        "poblacion": 1325578
+        "poblacion": 1857985
     },
     {
         "iso": "MEX-SLP",
         "nombre": "San Luis Potosí",
-        "poblacion": 2585518
+        "poblacion": 2822255
     },
     {
         "iso": "MEX-SIN",
         "nombre": "Sinaloa",
-        "poblacion": 2767761
+        "poblacion": 3026943
     },
     {
         "iso": "MEX-SON",
         "nombre": "Sonora",
-        "poblacion": 2662480
+        "poblacion": 2944840
     },
     {
         "iso": "MEX-TBS",
         "nombre": "Tabasco",
-        "poblacion": 2238603
+        "poblacion": 2402598
     },
     {
         "iso": "MEX-TML",
         "nombre": "Tamaulipas",
-        "poblacion": 3268554
+        "poblacion": 3527735
     },
     {
         "iso": "MEX-TLX",
         "nombre": "Tlaxcala",
-        "poblacion": 1169936
+        "poblacion": 1342977
     },
     {
         "iso": "MEX-VLL",
         "nombre": "Veracruz",
-        "poblacion": 7643194
+        "poblacion": 8062579
     },
     {
         "iso": "MEX-YCT",
         "nombre": "Yucatan",
-        "poblacion": 1955577
+        "poblacion": 2320898
     },
     {
         "iso": "MEX-ZCT",
         "nombre": "Zacatecas",
-        "poblacion": 1490668
+        "poblacion": 1622138
     }
 ]
