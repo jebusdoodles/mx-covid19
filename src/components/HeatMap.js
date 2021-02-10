@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import data from './../database/heatmap_data.csv';
+import data from 'https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/heatmap_data.csv';
 import * as d3 from 'd3';  
 
 class HeatMap extends Component {
