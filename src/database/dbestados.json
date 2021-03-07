@@ -80414,5 +80414,229 @@
         "nombre": "Zacatecas",
         "confirmados": 27764,
         "decesos": 2512
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-AGS",
+        "nombre": "Aguascalientes",
+        "confirmados": 23459,
+        "decesos": 2081
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-BCN",
+        "nombre": "Baja California Norte",
+        "confirmados": 45424,
+        "decesos": 7470
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-BCS",
+        "nombre": "Baja California Sur",
+        "confirmados": 26816,
+        "decesos": 1207
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-CMP",
+        "nombre": "Campeche",
+        "confirmados": 8596,
+        "decesos": 1058
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-CHP",
+        "nombre": "Chiapas",
+        "confirmados": 10090,
+        "decesos": 1343
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-CHH",
+        "nombre": "Chihuahua",
+        "confirmados": 43818,
+        "decesos": 5326
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-DTD",
+        "nombre": "Ciudad de México",
+        "confirmados": 569851,
+        "decesos": 36337
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-CDZ",
+        "nombre": "Coahuila",
+        "confirmados": 65346,
+        "decesos": 5758
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-COL",
+        "nombre": "Colima",
+        "confirmados": 10495,
+        "decesos": 1181
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-DRN",
+        "nombre": "Durango",
+        "confirmados": 31223,
+        "decesos": 2053
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-GNJ",
+        "nombre": "Guanajuato",
+        "confirmados": 121427,
+        "decesos": 9276
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-GRR",
+        "nombre": "Guerrero",
+        "confirmados": 35802,
+        "decesos": 3612
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-HDL",
+        "nombre": "Hidalgo",
+        "confirmados": 35107,
+        "decesos": 5520
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-JLS",
+        "nombre": "Jalisco",
+        "confirmados": 79374,
+        "decesos": 10612
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-MEX",
+        "nombre": "Estado de México",
+        "confirmados": 221397,
+        "decesos": 21685
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-MDO",
+        "nombre": "Michoacán",
+        "confirmados": 43663,
+        "decesos": 4545	
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-MRL",
+        "nombre": "Morelos",
+        "confirmados": 27272,
+        "decesos": 2392
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-NYR",
+        "nombre": "Nayarit",
+        "confirmados": 10965,
+        "decesos": 1713
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-NLE",
+        "nombre": "Nuevo Leon",
+        "confirmados": 116587,
+        "decesos": 8563
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-OAX",
+        "nombre": "Oaxaca",
+        "confirmados": 41570,
+        "decesos": 2884
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-PUE",
+        "nombre": "Puebla",
+        "confirmados": 72605,
+        "decesos": 9227
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-QDA",
+        "nombre": "Queretaro",
+        "confirmados": 58813,
+        "decesos": 3630
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-QRO",
+        "nombre": "Quintana Roo",
+        "confirmados": 20378,
+        "decesos": 2392
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-SLP",
+        "nombre": "San Luis Potosí",
+        "confirmados": 58042,
+        "decesos": 4626	
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-SIN",
+        "nombre": "Sinaloa",
+        "confirmados": 34448,
+        "decesos": 5395
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-SON",
+        "nombre": "Sonora",
+        "confirmados": 68379,
+        "decesos": 6162	
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-TBS",
+        "nombre": "Tabasco",
+        "confirmados": 58213,
+        "decesos": 3822
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-TML",
+        "nombre": "Tamaulipas",
+        "confirmados": 52283,
+        "decesos": 4528
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-TLX",
+        "nombre": "Tlaxcala",
+        "confirmados": 17462,
+        "decesos": 2066
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-VLL",
+        "nombre": "Veracruz",
+        "confirmados": 55740,
+        "decesos": 8156
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-YCT",
+        "nombre": "Yucatan",
+        "confirmados": 33288,
+        "decesos": 3210
+    },
+    {
+        "fecha": "1615078800",
+        "iso": "MEX-ZCT",
+        "nombre": "Zacatecas",
+        "confirmados": 27850,
+        "decesos": 2527
     }
 ]
