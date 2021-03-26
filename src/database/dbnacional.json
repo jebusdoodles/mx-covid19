@@ -3400,5 +3400,14 @@
         "confirmados": 2208755,
         "sospechosos": 443392,
         "decesos": 199627
+    },
+    {
+        "fecha": "1616720400",
+        "fechaformat": "25-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2214542,
+        "sospechosos": 442396,
+        "decesos": 200211
     }
 ]
