@@ -3760,5 +3760,14 @@
         "confirmados": 2349900,
         "sospechosos": 431537,
         "decesos": 217345
+    },
+    {
+        "fecha": "1620172800",
+        "fechaformat": "4-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2352964,
+        "sospechosos": 433883,
+        "decesos": 217740
     }
 ]
