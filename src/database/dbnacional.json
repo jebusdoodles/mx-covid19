@@ -3778,5 +3778,14 @@
         "confirmados": 2355985,
         "sospechosos": 435491,
         "decesos": 218007
+    },
+    {
+        "fecha": "1620345600",
+        "fechaformat": "6-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2358831,
+        "sospechosos": 435139,
+        "decesos": 218173
     }
 ]
