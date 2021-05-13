@@ -21,8 +21,8 @@ export default class CentralContainer extends Component {
                         <GeneralGraph />
                     </Row>
                     <Row className="justify-content-center">
-                    <Alert variant='warning'>
-                        Debido a un reajuste por parte de la <Alert.Link href="https://www.gob.mx/salud/documentos/datos-abiertos-152127">Secretaria de Salud</Alert.Link> el día 5-10-2020 los datos pueden variar.
+                    <Alert variant='primary'>
+                        Debido a la veda electoral el día 6-06-2021 no se actualizaran los datos.
                     </Alert>
                     </Row>
                     <Row>
