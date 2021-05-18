@@ -3877,5 +3877,14 @@
         "confirmados": 2381923,
         "sospechosos": 434847,
         "decesos": 220433
+    },
+    {
+        "fecha": "1621296000",
+        "fechaformat": "17-Mayo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2382745,
+        "sospechosos": 433966,
+        "decesos": 220489
     }
 ]
