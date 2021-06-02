@@ -4012,5 +4012,14 @@
         "confirmados": 2413742,
         "sospechosos": 435552,
         "decesos": 223568
+    },
+    {
+        "fecha": "1622592000",
+        "fechaformat": "1-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2420659,
+        "sospechosos": 433649,
+        "decesos": 227840
     }
 ]
