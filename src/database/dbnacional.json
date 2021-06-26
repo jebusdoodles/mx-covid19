@@ -4219,5 +4219,14 @@
         "confirmados": 2487747,
         "sospechosos": 438533,
         "decesos": 231847
+    },
+    {
+        "fecha": "1624579200",
+        "fechaformat": "24-Junio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2493087,
+        "sospechosos": 439554,
+        "decesos": 232068
     }
 ]
