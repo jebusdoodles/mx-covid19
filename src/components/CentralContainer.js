@@ -21,9 +21,6 @@ export default class CentralContainer extends Component {
                         <GeneralGraph />
                     </Row>
                     <Row className="justify-content-center">
-                    <Alert variant='primary'>
-                        Debido a la veda electoral el día 6-06-2021 no se actualizaran los datos.
-                    </Alert>
                     </Row>
                     <Row>
                         <Col xs={10} md={7}>
