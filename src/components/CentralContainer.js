@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, Row, Col, Alert } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import StateMapContainer from './StateMapContainer';
 import StateListContainer from './StateListContainer'; 
 import StateDataContainer from './StateDataContainer';
