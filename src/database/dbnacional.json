@@ -4345,5 +4345,14 @@
         "confirmados": 2558369,
         "sospechosos": 444359,
         "decesos": 234192
+    },
+    {
+        "fecha": "1625788800",
+        "fechaformat": "8-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2567821,
+        "sospechosos": 444959,
+        "decesos": 234458
     }
 ]

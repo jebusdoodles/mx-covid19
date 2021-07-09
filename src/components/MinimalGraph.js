@@ -1,7 +1,7 @@
 import React from 'react'; 
 import dataset from '../database/dbnacional'; 
 import {
-    BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
+    BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip
   } from 'recharts';
 
 const MinimalGraph = () =>{
@@ -39,8 +39,7 @@ const MinimalGraph = () =>{
                     <XAxis dataKey="dia" />
                     <YAxis dataKey="suma" />
                     <Tooltip />
-                    <Legend />
-                    <Bar type="monotone" dataKey="suma" fill="#f49435" label={{ position: 'center', angle: 90 }} />
+                    <Bar type="monotone" dataKey="suma" fill="#f49435" />
                 </BarChart>
         </div>
     ); 

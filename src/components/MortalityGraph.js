@@ -1,7 +1,7 @@
 import React from 'react'; 
 import dataset from '../database/dbnacional'; 
 import {
-    LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend,
+    LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip,
   } from 'recharts';
 
 const MortalityGraph = () =>{
@@ -39,8 +39,7 @@ const MortalityGraph = () =>{
                         <XAxis dataKey="dia" />
                         <YAxis dataKey="decesos" />
                         <Tooltip />
-                        <Legend />
-                        <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" label={{ position: 'insideTopLeft', angle: 90 }} />
+                        <Line type="monotone" dataKey="decesos" stroke="#cccccc" fill="#000000" />
                     </LineChart>
         </div>
     ); 
