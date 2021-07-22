@@ -4462,5 +4462,14 @@
         "confirmados": 2678297,
         "sospechosos": 454593,
         "decesos": 236810
+    },
+    {
+        "fecha": "1626912000",
+        "fechaformat": "21-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2693495,
+        "sospechosos": 457653,
+        "decesos": 237207
     }
 ]
