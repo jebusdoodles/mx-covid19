@@ -77,9 +77,9 @@ const StateDataContainer = () =>{
                 {
                     data.slice(ultimo - total).map(c =>
                         <Col key={c.key}>
-                            <p className="data-panel dp-c">{c.confirmados}</p>
-                            <p className="data-panel dp-s">{c.sospechosos}</p>
-                            <p className="data-panel dp-d">{c.decesos}</p>
+                            <p className="data-panel dp-c">{c.confirmados.toLocaleString()}</p>
+                            <p className="data-panel dp-s">{c.sospechosos.toLocaleString()}</p>
+                            <p className="data-panel dp-d">{c.decesos.toLocaleString()}</p>
                             <p className="data-date">{c.fechaformat}</p>
                         </Col>
                     )

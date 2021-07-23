@@ -9,7 +9,7 @@ const StateListContainer = () =>{
         let datosPasados = dataset.slice(dataset.length - 64, dataset.length - 32);
         let datosPoblacion = dbpoblacion;
 
-        // funcion para crear un nuevo arraylist con coparación de datos anteriores
+        // funcion para crear un nuevo arraylist con comparación de datos anteriores
         let datosLista = () =>{
             let datosListado = []; 
             for (var i = 0; i < datosDiarios.length; i++){
@@ -43,8 +43,8 @@ const StateListContainer = () =>{
             datosDiarios.filter(c => c.confirmados > 0).map( c => 
                 <tr key={c.iso}>
                     <td>{c.nombre}</td>
-                    <td className='tabla-conf'>{c.confirmados}<br></br>{c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
-                    <td className='tabla-conf'>{c.decesos}<br></br>{c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
+                    <td className='tabla-conf'>{c.confirmados.toLocaleString()}<br></br>{c.diferencia > 0 ? <span className='diff-lista'>(+{c.diferencia})</span> : " "}</td>
+                    <td className='tabla-conf'>{c.decesos.toLocaleString()}<br></br>{c.diferenciaDecesos > 0 ? <span className='diff-lista'>(+{c.diferenciaDecesos})</span> : " "}</td>
                     <td>{residuoDeathRate(c.rateDeath)} %</td>
                     <td>{Math.floor(c.rateConfirmed)}</td>
                 </tr>             

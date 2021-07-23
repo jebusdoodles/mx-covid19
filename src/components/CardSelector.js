@@ -11,7 +11,7 @@ const CardSelector = ({tipo, titulo, cifra, subcifra, data, color}) => {
                 <Card.Body>
                     <Card.Title className="card-titulo">{titulo}</Card.Title>
                     <Card.Text className="card-numero">
-                        <CountUp end={cifra} /> 
+                        {cifra.toLocaleString()}
                         <span className="card-subnumero">( +<CountUp delay={1.5} end={subcifra} /> )</span>
                     </Card.Text>
                     
