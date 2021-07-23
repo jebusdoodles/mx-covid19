@@ -4471,5 +4471,14 @@
         "confirmados": 2693495,
         "sospechosos": 457653,
         "decesos": 237207
+    },
+    {
+        "fecha": "1626998400",
+        "fechaformat": "22-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2709739,
+        "sospechosos": 459539,
+        "decesos": 237626
     }
 ]
