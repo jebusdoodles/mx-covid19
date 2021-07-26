@@ -4491,12 +4491,21 @@
         "decesos": 237954
     },
     {
-        "fecha": "1627257600",
+        "fecha": "1627171200",
         "fechaformat": "24-Julio",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 2741983,
         "sospechosos": 462541,
         "decesos": 238316
+    },
+    {
+        "fecha": "1627257600",
+        "fechaformat": "25-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2748518,
+        "sospechosos": 461653,
+        "decesos": 238424
     }
 ]
