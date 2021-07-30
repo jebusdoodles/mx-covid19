@@ -4534,5 +4534,14 @@
         "confirmados": 2790874,
         "sospechosos": 465998,
         "decesos": 239616
+    },
+    {
+        "fecha": "1627603200",
+        "fechaformat": "29-Julio",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 2810097,
+        "sospechosos": 467648,
+        "decesos": 239997
     }
 ]
