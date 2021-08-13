@@ -4660,5 +4660,14 @@
         "confirmados": 3020596,
         "sospechosos": 483340,
         "decesos": 246203
+    },
+    {
+        "fecha": "1628812800",
+        "fechaformat": "12-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3045571,
+        "sospechosos": 485574,
+        "decesos": 246811
     }
 ]
