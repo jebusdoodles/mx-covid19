@@ -4687,5 +4687,14 @@
         "confirmados": 3091971,
         "sospechosos": 486709,
         "decesos": 248167
+    },
+    {
+        "fecha": "1629072000",
+        "fechaformat": "15-Agosto",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3101266,
+        "sospechosos": 481249,
+        "decesos": 248380
     }
 ]
