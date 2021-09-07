@@ -4885,5 +4885,14 @@
         "confirmados": 3428384,
         "sospechosos": 495661,
         "decesos": 263140
+    },
+    {
+        "fecha": "1630972800",
+        "fechaformat": "6-Septiembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3433511,
+        "sospechosos": 494094,
+        "decesos": 263470
     }
 ]
