@@ -5110,5 +5110,14 @@
         "confirmados": 3664223,
         "sospechosos": 518893,
         "decesos": 277505
+    },
+    {
+        "fecha": "1633132800",
+        "fechaformat": "1-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3671611,
+        "sospechosos": 519671,
+        "decesos": 277976
     }
 ]
