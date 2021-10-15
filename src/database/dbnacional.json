@@ -5227,5 +5227,14 @@
         "confirmados": 3738749,
         "sospechosos": 529322,
         "decesos": 283193
+    },
+    {
+        "fecha": "1634256000",
+        "fechaformat": "14-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3744574,
+        "sospechosos": 530686,
+        "decesos": 283574
     }
 ]
