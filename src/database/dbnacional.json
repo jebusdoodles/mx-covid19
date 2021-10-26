@@ -5319,12 +5319,21 @@
         "decesos": 286259
     },
     {
-        "fecha": "1635120000",
+        "fecha": "1635206400",
         "fechaformat": "24-Octubre",
         "iso": "MEX",
         "nombre": "México",
         "confirmados": 3783327,
         "sospechosos": 537010,
         "decesos": 286346
+    },
+    {
+        "fecha": "1635206400",
+        "fechaformat": "25-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3784448,
+        "sospechosos": 536982,
+        "decesos": 286496
     }
 ]
