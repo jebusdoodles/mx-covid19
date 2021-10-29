@@ -5353,5 +5353,14 @@
         "confirmados": 3793783,
         "sospechosos": 542597,
         "decesos": 287274
+    },
+    {
+        "fecha": "1635465600",
+        "fechaformat": "28-Octubre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3798286,
+        "sospechosos": 543066,
+        "decesos": 287631
     }
 ]
