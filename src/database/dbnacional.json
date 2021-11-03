@@ -5398,5 +5398,14 @@
         "confirmados": 3808205,
         "sospechosos": 540372,
         "decesos": 288464
+    },
+    {
+        "fecha": "1635901200",
+        "fechaformat": "2-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3811793,
+        "sospechosos": 541974,
+        "decesos": 288733
     }
 ]
