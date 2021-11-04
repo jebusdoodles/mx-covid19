@@ -5407,5 +5407,14 @@
         "confirmados": 3811793,
         "sospechosos": 541974,
         "decesos": 288733
+    },
+    {
+        "fecha": "1635987600",
+        "fechaformat": "3-Noviembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3814453,
+        "sospechosos": 542911,
+        "decesos": 288887
     }
 ]
