@@ -5794,5 +5794,23 @@
         "confirmados": 3924638,
         "sospechosos": 575232,
         "decesos": 297187
+    },
+    {
+        "fecha": "1639616400",
+        "fechaformat": "15-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3924638,
+        "sospechosos": 575232,
+        "decesos": 297187
+    },
+    {
+        "fecha": "1639702800",
+        "fechaformat": "16-Diciembre",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 3927265,
+        "sospechosos": 575600,
+        "decesos": 297356
     }
 ]
