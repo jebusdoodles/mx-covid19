@@ -5974,5 +5974,14 @@
         "confirmados": 3993464,
         "sospechosos": 583317,
         "decesos": 299581
+    },
+    {
+        "fecha": "1641344400",
+        "fechaformat": "4-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 4008648,
+        "sospechosos": 587155,
+        "decesos": 299711
     }
 ]
