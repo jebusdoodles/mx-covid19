@@ -6190,5 +6190,14 @@
         "confirmados": 4828446,
         "sospechosos": 635366,
         "decesos": 304803
+    },
+    {
+        "fecha": "1643418000",
+        "fechaformat": "28-Enero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 4873561,
+        "sospechosos": 636493,
+        "decesos": 305240
     }
 ]
