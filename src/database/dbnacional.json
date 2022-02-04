@@ -6244,5 +6244,14 @@
         "confirmados": 5027870,
         "sospechosos": 642050,
         "decesos": 307493
+    },
+    {
+        "fecha": "1643936400",
+        "fechaformat": "3-Febrero",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5068985,
+        "sospechosos": 642781,
+        "decesos": 308141
     }
 ]
