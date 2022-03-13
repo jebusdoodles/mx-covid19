@@ -6568,5 +6568,23 @@
         "confirmados":  5591871,
         "sospechosos": 674472,
         "decesos": 320607
+    },
+    {
+        "fecha": "1647046800",
+        "fechaformat": "11-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados":  5599284,
+        "sospechosos": 674426,
+        "decesos": 320851
+    },
+    {
+        "fecha": "1647046800",
+        "fechaformat": "12-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5605636,
+        "sospechosos": 674637,
+        "decesos": 321054
     }
 ]
