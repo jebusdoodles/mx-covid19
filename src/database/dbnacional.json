@@ -6721,5 +6721,14 @@
         "confirmados": 5650896,
         "sospechosos": 680631,
         "decesos": 322750
+    },
+    {
+        "fecha": "1648515600",
+        "fechaformat": "28-Marzo",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5651553,
+        "sospechosos": 680471,
+        "decesos": 322761
     }
 ]
