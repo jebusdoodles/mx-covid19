@@ -6874,5 +6874,41 @@
         "confirmados": 5724611,
         "sospechosos": 687000,
         "decesos": 323848
+    },
+    {
+        "fecha": "1649980800",
+        "fechaformat": "14-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5724611,
+        "sospechosos": 687000,
+        "decesos": 323848
+    },
+    {
+        "fecha": "1650067200",
+        "fechaformat": "15-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5724611,
+        "sospechosos": 687000,
+        "decesos": 323848
+    },
+    {
+        "fecha": "1650153600",
+        "fechaformat": "16-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5726668,
+        "sospechosos": 687234,
+        "decesos": 323938
+    },
+    {
+        "fecha": "1650240000",
+        "fechaformat": "17-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5727668,
+        "sospechosos": 687537,
+        "decesos": 323944
     }
 ]
