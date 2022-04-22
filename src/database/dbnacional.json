@@ -6928,5 +6928,23 @@
         "confirmados": 5729270,
         "sospechosos": 688502,
         "decesos": 323973
+    },
+    {
+        "fecha": "1650499200",
+        "fechaformat": "20-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5730560,
+        "sospechosos": 688931,
+        "decesos": 324004
+    },
+    {
+        "fecha": "1650585600",
+        "fechaformat": "21-Abril",
+        "iso": "MEX",
+        "nombre": "México",
+        "confirmados": 5731635,
+        "sospechosos": 689030,
+        "decesos": 324033
     }
 ]
