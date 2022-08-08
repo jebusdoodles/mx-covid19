@@ -9,7 +9,7 @@ import {
 import dbnacional from '../database/dbnacional'; 
 
 const GeneralGraph = () =>{
-    //graficas de rechart
+    //gráficas de rechart
     return (
         <div className="graphContainer">
             <LineChart

@@ -8,8 +8,8 @@ class DailySumTable extends Component {
             let datosDiarios = alldata.slice(alldata.length - 32, alldata.length);
             let datosPasados = alldata.slice(alldata.length - 64, alldata.length - 32);
             let otherData = [];
-            let ultimo = 32; 
-            let final =64;
+            //let ultimo = 32; 
+            //let final =64;
     
             let dataListado = () => {
                 let datosTabla = [];  /*
